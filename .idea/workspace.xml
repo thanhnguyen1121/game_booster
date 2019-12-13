@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23159f3a-7aae-44ec-8a8a-037ef9f84c39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/CallNative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/bannerr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/com.guide.pupg.diamonds.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/Entity/ImageDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/Entity/ImageDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/OneAC.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/OneAC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/CallNative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/UtilsMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/UtilsMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/sharedpref/IoUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/sharedpref/IoUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/sharedpref/SecurityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/sharedpref/SecurityUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/sharedpref/SharedPrefsUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/sharedpref/SharedPrefsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constances/Constances.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constances/Constances.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_AimingGuide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_GetAndFarmBP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_LandingAndLoot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_LandingSpots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_PUBGMobileTipsandTricks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_PositioningIntheFinalMoments.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_controll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_tip1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_tip2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_tip3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/images/ic_view_ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/Home/SelectScreenComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/Home/SelectScreenPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/Home/SelectScreenViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/HomeImage/HomeImageComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/HomeImage/HomeImagePresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/HomeImage/HomeImageViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/Intro/CustomPaginationBuilder.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/Intro/IntroPage.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabImageShow/ImageShowComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabImageShow/ImageShowPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabImageShow/ImageShowViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabListImageDown/ListImageDownComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabListImageDown/ListImageDownPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabListImageDown/ListImageDownViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabMore/TabMore.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/WeaponScreen/WeaponScreenComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/WeaponScreen/WeaponScreenPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/WeaponScreen/WeaponScreenViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/TabPubgWeaponComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/TabPubgWeaponPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabPugbWeapon/TabPubgWeaponViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabTricks/ListGuideComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabTricks/ListGuidePresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabTricks/ListGuideViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpagerComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpaperPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpaperViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/guide_info/GuideInfoComponent.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/guide_info/GuideInfoPresenter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/scren/guide_info/GuideInfoViewModel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/Ads.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/Ads.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/CallNative.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/CallNative.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/Intents.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/Intents.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.7.101:5555" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomeComponent.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="300" column="40" selection-start-line="289" selection-start-column="16" selection-end-line="300" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#2344#2429#0" />
+                <element signature="e#2539#13901#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/constances/Constances.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/utils/Ads.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/selectScreen/SelectScreenPresenter.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomePresenter.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionComponent.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterComponent.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterPresenter.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-158">
+              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/lib/src/admob_interstitial.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterViewModel.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>unlock</find>
+      <find>Page</find>
+      <find>circular_bottom_navigation</find>
+      <find>Free Ram:</find>
+      <find>startAngle</find>
+      <find>holeLabel</find>
+      <find>labelStyle</find>
+      <find>Colors.</find>
+      <find>fill</find>
+      <find>Colors.white</find>
+      <find>_viewModel.da</find>
+      <find>Strogate</find>
+      <find>temperatureCPU</find>
+      <find>print</find>
+      <find>icon</find>
+      <find>dataaaaa</find>
+      <find>get</find>
+      <find>isSelectedApp</find>
+      <find>device_info</find>
+      <find>Temperature</find>
+      <find>percent_indicator:</find>
+      <find>totalRAM</find>
+      <find>24499040256</find>
+      <find>booster</find>
+      <find>Add game</find>
+      <find>netwo</find>
+      <find>add game</find>
+      <find>chua</find>
+      <find>LAUNCH_APP</find>
+      <find>INTENT_BACK</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>static</replace>
+      <replace>screens</replace>
+      <replace>__streamSubscription</replace>
+      <replace>basePresenter</replace>
+      <replace>this.presenter</replace>
+      <replace>com.guide.tricks.freefire.diamonds</replace>
+      <replace>\&quot;</replace>
+      <replace>\\&quot;</replace>
+      <replace>\\</replace>
+      <replace>&quot;nameLang&quot;</replace>
+      <replace>Colors.black</replace>
+      <replace>Colors.blue</replace>
+      <replace>startActivityNoBack</replace>
+      <replace>moreApp</replace>
+      <replace>&lt;p&gt;</replace>
+      <replace>&lt;/p&gt;</replace>
+      <replace />
+      <replace>com.guide.pupg.diamonds</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\AIB Flutter\FFTricks\FFTricks2\FFTricks\android\app\src\main\assets</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/scren/TabListImageDown/ListImageDownPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/guide_info/GuideInfoComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/TabSetting/SettingScreenPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/locales/en.json" />
+        <option value="$PROJECT_DIR$/lib/locales/vi.json" />
+        <option value="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpaperPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/scren/Home/SelectScreenComponent.dart" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/test.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/home/HomeViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/home/HomePresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/deviceInfo/SelectScreenViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/deviceInfo/DeviceInfoPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/deviceInfo/DeviceInfoComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/detailFunction/DetailFunctionViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/detailFunction/DetailFunctionPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/detailFunction/DetailFunctionComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/home/HomeComponent.dart" />
+        <option value="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_circular_chart-0.1.0/lib/src/animated_circular_chart.dart" />
+        <option value="D:/flutter/.pub-cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/circular_percent_indicator.dart" />
+        <option value="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/OneAC.java" />
+        <option value="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/App.java" />
+        <option value="$PROJECT_DIR$/lib/utils/Intents.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/HomeComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/utils/CallNative.java" />
+        <option value="$PROJECT_DIR$/android/app/src/main/java/com/example/pupgtricks/MainActivity.java" />
+        <option value="$PROJECT_DIR$/lib/utils/CallNative.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/selectScreen/SelectScreenComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoComponent.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomeViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomeComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterViewModel.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterComponent.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomePresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/gameBoosterScreen/selectScreen/SelectScreenPresenter.dart" />
+        <option value="$PROJECT_DIR$/lib/constances/Constances.dart" />
+        <option value="$PROJECT_DIR$/lib/utils/Ads.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="width" value="1926" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="outputs" type="462c0819:PsiDirectoryNode" />
+              <item name="apk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="constances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="selectScreen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="tabDetailFunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="tabDeviceInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="tabHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="gameBoosterScreen" type="462c0819:PsiDirectoryNode" />
+              <item name="tabHome" type="462c0819:PsiDirectoryNode" />
+              <item name="AddAppBooster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gamebooter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gamebooter" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FFTricks/FFMapGuide" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AIB Flutter\Trick\PUPGTricks\lib\images" />
+      <recent name="D:\AIB Flutter\Trick\PUPGTricks\android\app\src\main\assets" />
+      <recent name="D:\AIB Flutter\FFTricks\FFTricks2\FFTricks\android\app\src\main\assets" />
+      <recent name="D:\AIB Flutter\FFTricks\FFTricks2\FFTricks\android\app\src\main" />
+      <recent name="$PROJECT_DIR$/lib/constance" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AIB Flutter\App Tricks\gamebooter\lib\images" />
+      <recent name="D:\AIB Flutter\App Tricks\gamebooter\lib\gameBoosterScreen\tabHome\AddAppBooster" />
+      <recent name="D:\AIB Flutter\App Tricks\gamebooter\lib\gameBoosterScreen\selectScreen" />
+      <recent name="D:\AIB Flutter\App Tricks\gamebooter\lib\gameBoosterScreen\detailFunction" />
+      <recent name="D:\AIB Flutter\App Tricks\gamebooter\lib\gameBoosterScreen\deviceInfo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23159f3a-7aae-44ec-8a8a-037ef9f84c39" name="Default Changelist" comment="" />
+      <created>1567505030385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567505030385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="met code">
+      <created>1570619282973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570619282974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Captures" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.32822758" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49733475" weight="0.3764321" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.41898528" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.28641573" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5026652" side_tool="true" weight="0.39328277" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32822758" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.31096563" />
+      <window_info anchor="bottom" id="Logcat" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Android Profiler" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Outline" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.32967034" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Build Variants" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2960928" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Captures" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="0" />
+      <window_info anchor="bottom" id="Android Profiler" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dart Analysis" order="2" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4977307" weight="0.3764321" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.41571194" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.42691416" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50226927" side_tool="true" weight="0.54664487" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32946634" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3201856" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Flutter Outline" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="met code" />
+    <option name="LAST_COMMIT_MESSAGE" value="met code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/CallNative.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/booster/RAMBooster.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+7/lib/firebase_admob.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="382" column="21" selection-start-line="382" selection-start-column="15" selection-end-line="382" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/scren/TabPugbWeapon/SelectedScreen/SelectedPresenter.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpaperPresenter.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedViewModel.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedComponent.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/test.dart" />
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/circular_bottom_navigation-1.0.1/lib/circular_bottom_navigation.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5320">
+          <caret line="269" column="6" selection-start-line="269" selection-start-column="6" selection-end-line="269" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_circular_chart-0.1.0/lib/src/animated_circular_chart.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125">
+          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/scren/TabWallaper/ListWallpagerComponent.dart" />
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/percent_indicator-2.1.1+1/lib/circular_percent_indicator.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4180">
+          <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/packages/flutter/lib/src/widgets/basic.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83960">
+          <caret line="4260" column="2" selection-start-line="4260" selection-start-column="2" selection-end-line="4260" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/scren/Home/SelectScreenComponent.dart" />
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/OneAC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/images/ic_PUBGMobileTipsandTricks.jpg" />
+    <entry file="file://$PROJECT_DIR$/lib/images/ic_PositioningIntheFinalMoments.jpg" />
+    <entry file="file://D:/flutter/packages/flutter/lib/src/widgets/framework.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4046" column="26" selection-start-line="4046" selection-start-column="26" selection-end-line="4046" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/scren/WallpagerScreen/WallpagerSelectedPresenter.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/Intents.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/CallNative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-415">
+          <caret line="220" column="20" selection-start-line="220" selection-start-column="20" selection-end-line="220" selection-end-column="20" />
+          <folding>
+            <element signature="e#3472#4204#1" />
+            <element signature="e#4266#4415#1" />
+            <element signature="e#4483#5247#1" />
+            <element signature="e#5326#6328#1" />
+            <element signature="e#6387#8385#1" />
+            <element signature="e#8444#8509#1" />
+            <element signature="e#8575#9238#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/device_apps-1.0.8/lib/device_apps.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="121" column="21" lean-forward="true" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.1+1/lib/device_info.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/packages/flutter/lib/src/material/icons.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="278" column="34" selection-start-line="278" selection-start-column="24" selection-end-line="278" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoViewModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/android_device_info-1.0.0/lib/android_device_info.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoPresenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/booster/RAMBoosterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#getInstance#0;class#RAMBoosterUtil#0" />
+            <element signature="method#getMemoryStatus#0;class#RAMBoosterUtil#0" />
+            <element signature="method#getAllRam#0;class#RAMBoosterUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/booster/CPURAMUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="method#calcCpuCoreCount#0;class#CPURAMUtil#0" />
+            <element signature="e#711#760#1" />
+            <element signature="method#takeCurrentCpuFreq#0;class#CPURAMUtil#0" />
+            <element signature="method#takeMinCpuFreq#0;class#CPURAMUtil#0" />
+            <element signature="method#takeMaxCpuFreq#0;class#CPURAMUtil#0" />
+            <element signature="method#readIntegerFile#0;class#CPURAMUtil#0" />
+            <element signature="method#takeCpuUsageSnapshot#0;class#CPURAMUtil#0" />
+            <element signature="method#calcCpuUsages#0;class#CPURAMUtil#0" />
+            <element signature="method#formatFreq#0;class#CPURAMUtil#0" />
+            <element signature="method#getFreeMemorySize#0;class#CPURAMUtil#0" />
+            <element signature="method#getTotalRam#0;class#CPURAMUtil#0" />
+            <element signature="method#getUsedMemorySize#0;class#CPURAMUtil#0" />
+            <element signature="method#getUsedRamPercent#0;class#CPURAMUtil#0" />
+            <element signature="method#getAvailableRom#0;class#CPURAMUtil#0" />
+            <element signature="method#getTotalRom#0;class#CPURAMUtil#0" />
+            <element signature="method#getTemperatureCPU#0;class#CPURAMUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/example/gamebotter/utils/booster/RAMBooster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="method#RAMBooster#0;class#RAMBooster#0" />
+            <element signature="method#getUnusedRAM#0;class#RAMBooster#0" />
+            <element signature="method#clearRAM#0;class#RAMBooster#0" />
+            <element signature="method#getDeviceInfo#0;class#RAMBooster#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/CallNative.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionViewModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionPresenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#768#1551#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDeviceInfo/DeviceInfoComponent.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1848">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Data.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomeViewModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/selectScreen/SelectScreenComponent.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+            <marker date="1576054712043" expanded="true" signature="1857:1930" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabDetailFunction/DetailFunctionComponent.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterViewModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/lib/src/admob_interstitial.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomeComponent.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="300" column="40" selection-start-line="289" selection-start-column="16" selection-end-line="300" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#2344#2429#0" />
+            <element signature="e#2539#13901#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterComponent.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/AddAppBooster/AddAppBoosterPresenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-158">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/tabHome/HomePresenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gameBoosterScreen/selectScreen/SelectScreenPresenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils/Ads.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/constances/Constances.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

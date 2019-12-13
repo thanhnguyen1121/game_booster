@@ -1,0 +1,4645 @@
+{
+  "Category": [
+    "Weapons",
+    "Attachments",
+    "Consumables",
+    "Equipments"
+  ],
+  "Weapons": [
+    {
+      "image": "groza.png",
+      "name": "Rifles"
+    },
+    {
+      "image": "mini14.png",
+      "name": "DMRs"
+    },
+    {
+      "image": "awm.png",
+      "name": "Sniper Rifles"
+    },
+    {
+      "image": "s12k.png",
+      "name": "Shotguns"
+    },
+    {
+      "image": "bizon.png",
+      "name": "Submachine Guns"
+    },
+    {
+      "image": "dp-28.png",
+      "name": "Lightmachine Guns"
+    },
+    {
+      "image": "p18c.png",
+      "name": "Pistols"
+    },
+    {
+      "image": "pan.png",
+      "name": "Melee"
+    },
+    {
+      "image": "fraggrenade.png",
+      "name": "Throwables"
+    },
+    {
+      "image": "crossbow.png",
+      "name": "Misc"
+    }
+  ],
+  "Attachments": [
+    {
+      "image": "8xcqbssscope.png",
+      "name": "Scopes"
+    },
+    {
+      "image": "extendedquickdrawmag(ar,dmr,s12k).png",
+      "name": "Magazines"
+    },
+    {
+      "image": "compensator(ar,dmr,s12k).png",
+      "name": "Muzzles"
+    },
+    {
+      "image": "angledforegrip.png",
+      "name": "Grips"
+    },
+    {
+      "image": "tacticalstock.png",
+      "name": "Stocks"
+    }
+  ],
+  "Consumables": [
+    {
+      "image": "300magnum.png",
+      "name": "Ammunitions"
+    },
+    {
+      "image": "medkit.png",
+      "name": "Healing Items"
+    },
+    {
+      "image": "adrenalinesyringe.png",
+      "name": "Boost Items"
+    }
+  ],
+  "Equipments": [
+    {
+      "image": "backpack(lv3).png",
+      "name": "Backpacks"
+    },
+    {
+      "image": "helmet(lv3).png",
+      "name": "Helmets"
+    },
+    {
+      "image": "militaryvest(lv3).png",
+      "name": "Vests"
+    }
+  ],
+  "Rifles": [
+    {
+      "name": "AKM",
+      "image": "akm.png",
+      "Stats": {
+        "Hit Damage": 49,
+        "Initial Bullet Speed": "715 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.100s",
+        "Zero Range": "100 - 1000 m",
+        "Firing Modes": "Auto,Single",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 30,
+        "Reload Duration": "2.9s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 43,
+      "Range": 60,
+      "Stability": 33,
+      "Firing Rate": 61,
+      "Description": "The AKM is an assault rifle type weapon in BATTLEGROUNDS. The AKM (Avtomat Kalashnikova Modernizirovanny, lit. Modernized Kalashnikov Automatic Rifle) is an improved version of the original AK-47, featuring improvements and refinements in manufacturing and materials to create a modernized version of one of the most recognizable firearms in the world. Especially popular with freedom fighters, insurgents and guerrilla forces, in BATTLEGROUNDS its stopping power makes it popular for close quarters combat.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator (AR, DMR, S12K)",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AUG",
+      "image": "aug.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "940 m/s",
+        "Body Hit Impact": 9000,
+        "Time Between Shots": "0.086s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Auto,Single",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "3.6s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 40,
+      "Range": 56,
+      "Stability": 31,
+      "Firing Rate": 59,
+      "Description": "The AUG A3 (Armee-Universal-Gewehr—A3), an air drop-only weapon, and for good reason - its exceptional handling and high muzzle velocity make it a highly sought after weapon for anyone fortunate enough to come across a crate and get away with its contents alive. The AUG utilizes the same attachment points and even has the same ballistics as the SCAR-L, albeit with a higher muzzle velocity and slightly increased drag coefficient meaning that bullets fired from this gun will have a slightly more curved trajectory, canceled out by the fact that the bullets travel much faster compared to the SCAR-L.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Suppressor (AR, DMR, S12K)",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Beryl M762",
+      "image": "berylm762.png",
+      "Stats": {
+        "Hit Damage": 47,
+        "Initial Bullet Speed": "715 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.086s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Auto,Single,Burst",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 30,
+        "Reload Duration": "2.9s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 42,
+      "Range": 60,
+      "Stability": 33,
+      "Firing Rate": 69,
+      "Description": "The Beryl M762 is a versatile assault rifle with more attachment points than the AKM, on par with the SCAR-L. Its base damage per shot is slightly lower than the other 7.62mm assault rifles, offset by its rate of fire being almost as fast as that of the Groza, allowing its overall damage per second to be significantly higher than the comparable AKM. This comes at the cost of significantly higher recoil that — unlike the AKM — can be reduced by attaching foregrips.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator (AR, DMR, S12K)",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "G36C",
+      "image": "g36c.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "870 m/s",
+        "Body Hit Impact": 9000,
+        "Time Between Shots": "0.086s",
+        "Zero Range": "100 - 400 m",
+        "Firing Modes": "Auto,Single",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "3.8s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 36,
+      "Range": 54,
+      "Stability": 30,
+      "Firing Rate": 54,
+      "Description": "Right at home in its central European origins, the G36C's damage per second is lower than its popular 5.56mm brother, the M416. But it makes up for what it lacks in DPS, with better control especially when engaging your enemies at short to medium range.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator (AR, DMR, S12K)",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Groza",
+      "image": "groza.png",
+      "Stats": {
+        "Hit Damage": 49,
+        "Initial Bullet Speed": "715 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.080s",
+        "Zero Range": "100 - 300 m",
+        "Firing Modes": "Auto,Single",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 30,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 43,
+      "Range": 58,
+      "Stability": 22,
+      "Firing Rate": 66,
+      "Description": "The Groza is a bullpup assault rifle that will spawn in air drop crates. Dealing the same damage as the AKM and boasting the second-highest rate of fire of all assault rifles, only bested by the M16A4, it can turn the tables around for whoever is lucky enough to get their hands on this rare weapon, particularly in the final stages of the match.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M16A4",
+      "image": "m16a4.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "900 m/s",
+        "Body Hit Impact": 8000,
+        "Time Between Shots": "0.075s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Single,Burst",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "2.2s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 37,
+      "Range": 56,
+      "Stability": 31,
+      "Firing Rate": 81,
+      "Description": "The M16A4 is an assault rifle type weapon in BATTLEGROUNDS. Replacing the US military's M14 as its standard service rifle, the first M16s were introduced in 1964 during the Vietnam War where they quickly grew an infamous reputation for reliablity problems, amongst other issues. Feedback from battlefield experience was then used to refine and improve the gun over the years and as a result, many derivatives and variants of the M16 have been created, with the fourth generation M16A4 being the latest development. Widely adopted by militaries around the world, in BATTLEGROUNDS it proves to be an assault rifle more suited for longer range engagements.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M416",
+      "image": "m416.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "880 m/s",
+        "Body Hit Impact": 3500,
+        "Time Between Shots": "0.0857s",
+        "Zero Range": "100 - 400 m",
+        "Firing Modes": "Auto,Single",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "2.1s",
+        "Attachment Points": 5,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 37,
+      "Range": 56,
+      "Stability": 24,
+      "Firing Rate": 76,
+      "Description": "The HK416, (referred to as the M416 in-game) is an assault rifle/carbine type weapon in BATTLEGROUNDS. A tactical rifle based on the discontinued XM8-project as an improvement of both the M16/AR-15 and the M4 Carbine, it integrates the short-stroke gas piston system from the G36 rifle for less recoil and increased reliability. Adopted by the militaries of several countries across the world, in BATTLEGROUNDS it proves very popular due to the number of attachments it can accept, allowing a great amount of flexibility.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Tactical Stock",
+            "image": "tacticalstock.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mk47 Mutant",
+      "image": "mk47mutant.png",
+      "Stats": {
+        "Hit Damage": 49,
+        "Initial Bullet Speed": "780 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.100s",
+        "Zero Range": "100 - 1000 m",
+        "Firing Modes": "Single,Burst",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 20,
+        "Reload Duration": "3.35s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 42,
+      "Range": 62,
+      "Stability": 33,
+      "Firing Rate": 47,
+      "Description": "Modern assault rifle capable of single and two-round burst fire modes.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Tactical Stock",
+            "image": "tacticalstock.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QBZ",
+      "image": "qbz.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "870 m/s",
+        "Body Hit Impact": 9000,
+        "Time Between Shots": "0.092s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "3.66s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 38,
+      "Range": 55,
+      "Stability": 29,
+      "Firing Rate": 54,
+      "Description": "The QBZ-95 is a Chinese bullpup assault rifle that fits the theme/location of the Sanhok.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Scar-L",
+      "image": "scar-l.png",
+      "Stats": {
+        "Hit Damage": 43,
+        "Initial Bullet Speed": "870 m/s",
+        "Body Hit Impact": 9000,
+        "Time Between Shots": "0.096s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 30,
+        "Reload Duration": "2.2s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Rifles",
+      "Power": 37,
+      "Range": 54,
+      "Stability": 28,
+      "Firing Rate": 70,
+      "Description": "The SCAR-L is the light variant of the FN SCAR (Special Operations Forces Combat Assault Rifle), a gas-operated short-stroke gas piston automated rifle chambered to a variety of cartridges. It was originally developed by FN Herstal for the United States Special Operations Command (SOCOM) as an entry to the SCAR Competition, a competition to find the new service rifle for SOCOM. As of 2015, the SCAR family of rifles is in service in over 20 countries. In BATTLEGROUNDS, it proves to be a well rounded rifle with a quieter muzzle report and good stability.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    }
+  ],
+  "DMRs": [
+    {
+      "name": "Mini 14",
+      "image": "mini14.png",
+      "Stats": {
+        "Hit Damage": 46,
+        "Initial Bullet Speed": "990 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.133s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Semi Auto",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 20,
+        "Reload Duration": "3.6s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 40,
+      "Range": 63,
+      "Stability": 35,
+      "Firing Rate": 42,
+      "Description": "A lightweight rifle classified as a designated marksman rifle in terms of attachments, compared to other weapons in its class, the Mini-14 deals less damage and only has attachments for muzzle, magazine and sight mods, making up for these shortcomings with a very high muzzle velocity - the highest of any weapon in the game - and low bullet drop, as well as a larger magazine capacity, making it suitable for situations where quick follow up shots are required at long range, as well as close quarters combat when the trigger just needs to be pulled as fast as possible, hoping that the enemy is the first to go down. It has a rather lengthy reload time so make sure the area is secure before inserting a fresh magazine.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag)",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended Mag ",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag ",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+          {
+            "name": "Suppressor ",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mk14 EBR",
+      "image": "mk14ebr.png",
+      "Stats": {
+        "Hit Damage": 61,
+        "Initial Bullet Speed": "853 m/s",
+        "Body Hit Impact": 20000,
+        "Time Between Shots": "0.090s",
+        "Zero Range": "100 - 800 m",
+        "Firing Modes": "Semi Auto,Full-Auto",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 10,
+        "Reload Duration": "3.683s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 54,
+      "Range": 79,
+      "Stability": 56,
+      "Firing Rate": 26,
+      "Description": "The Mk14 can be seen as a bigger version of the SKS - dealing more damage per shot and with more recoil as well. The most notable difference from the SKS is the ability of the Mk14 to switch to an automatic fire mode, enabling its wielder to deliver a huge amount of damage for different situations, whether it be house-clearing or surprise contact with another player. The high recoil limits the effectiveness of this function to close ranges however, and the already low magazine capacity coupled with the lengthy reload duration requires the user to have a very steady aim when going full auto, particularly if there is more than one enemy around.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "QBU",
+      "image": "qbu.png",
+      "Stats": {
+        "Hit Damage": 48,
+        "Initial Bullet Speed": "945 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.100s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Semi Auto",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 10,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 50,
+      "Range": 63,
+      "Stability": 35,
+      "Firing Rate": 30,
+      "Description": "The QBU is a Chinese bullpup designated marksman that fits the theme/location of the Sanhok. The rifle features a bipod that deploys upon proning. When deployed, the bipod significantly reduces the recoil when shooting.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag (DMR, SR)",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator ",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+          {
+            "name": "Suppressor ",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SKS",
+      "image": "sks.png",
+      "Stats": {
+        "Hit Damage": 53,
+        "Initial Bullet Speed": "800 m/s",
+        "Body Hit Impact": 20000,
+        "Time Between Shots": "0.090s",
+        "Zero Range": "100 - 300 m",
+        "Firing Modes": "Semi Auto",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 10,
+        "Reload Duration": "2.9s",
+        "Attachment Points": 5,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 49,
+      "Range": 63,
+      "Stability": 47,
+      "Firing Rate": 31,
+      "Description": "The SKS (Samozaryadny Karabin sistemy Simonova) is a designated marksman rifle, being a middle ground between a typical assault rifle and a sniper rifle. Thus, this rifle excels in medium-range combat and packs devastating stopping power if a user can handle this gun effectively in CQC (close-quarter combat), but will be less effective in long- to extreme-combat as it lacks the precision of dedicated sniper rifles. Players who wish to use a weapon with high damage, rate of fire and long range effectiveness should look for the SKS, as it is one of the few weapons with such properties.This gun also has the benefit of accepting the most attachments out of all the sniper rifles.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag ",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SLR",
+      "image": "slr.png",
+      "Stats": {
+        "Hit Damage": 58,
+        "Initial Bullet Speed": "840 m/s",
+        "Body Hit Impact": 20000,
+        "Time Between Shots": "0.100s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Semi Auto",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 10,
+        "Reload Duration": "3.683s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 53,
+      "Range": 63,
+      "Stability": 48,
+      "Firing Rate": 24,
+      "Description": "The SLR can be seen as a more powerful version of the SKS, dealing more damage at the expense of more recoil. Unlike the SKS however, it lacks an attachment point for any foregrips, requiring the user to have good recoil control and steady hands. Given that its initial bullet velocity is higher than that of the SKS as well as the fact that it also reloads slower, the SLR is more suited to ranged combat where there is ample cover and time to engage enemies. The length of the weapon may become an issue in close range engagements or when attempting to peek in and out of cover constantly.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Compensator ",
+            "image": "compensator(dmr,sr).png"
+          },
+          {
+            "name": "Flash Hider ",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider ",
+            "image": "flashhider(dmr,sr).png"
+          },
+          {
+            "name": "Suppressor ",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VSS",
+      "image": "vss.png",
+      "Stats": {
+        "Hit Damage": 41,
+        "Initial Bullet Speed": "330 m/s",
+        "Body Hit Impact": 20000,
+        "Time Between Shots": "0.086s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 10,
+        "Reload Duration": "2.9s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 31,
+      "Range": 37,
+      "Stability": 25,
+      "Firing Rate": 22,
+      "Description": "The VSS Vintorez is a rarely spawning weapon shooting common 9mm ammo in both single and fully automatic firing modes. It deals very low damage compared to other sniper rifles, but because of the integrated suppressor, muzzle report is significantly reduced, while the subsonic ammo causes its bullets simply whiz past rather than making a supersonic crack, making it extremely difficult to locate the shooter. Because of the use of subsonic ammo, the weapon has a very low muzzle velocity at 330 m/s, compared to the Mini-14 at 990 m/s, making long distance shots and shots against moving targets difficult.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    }
+  ],
+  "Sniper Rifles": [
+    {
+      "name": "AWM",
+      "image": "awm.png",
+      "Stats": {
+        "Hit Damage": 105,
+        "Initial Bullet Speed": "945 m/s",
+        "Body Hit Impact": 40000,
+        "Time Between Shots": "1.850s",
+        "Zero Range": "100 m",
+        "Firing Modes": "Single",
+        "Ammo Type": ".300 Magnum",
+        "Magazine Size": 5,
+        "Reload Duration": "4.6s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 100,
+      "Range": 100,
+      "Stability": 33,
+      "Firing Rate": 5,
+      "Description": "The AWM, or Accuracy International Arctic Warfare Magnum, designated as the L115 by the British Armed Forces, is a bolt-action sniper rifle. It was built on the older L96 frame, and was designed specifically for extensibility and ease of service. The AWM is a magnum rifle, chambered typically for the .300 Winchester Magnum or the .338 Lapua Magnum. Because of this round, it has ridiculous stopping power over a very far range, and with slow reload times to balance this beast of a sniper rifle.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag ",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator ",
+            "image": "compensator(dmr,sr).png"
+          },
+
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kar98K",
+      "image": "kar98k.png",
+      "Stats": {
+        "Hit Damage": 75,
+        "Initial Bullet Speed": "760 m/s",
+        "Body Hit Impact": 16000,
+        "Time Between Shots": "1.90s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 5,
+        "Reload Duration": "4.0s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 65,
+      "Range": 79,
+      "Stability": 20,
+      "Firing Rate": 4,
+      "Description": "The Kar98k is highly sought after because of its ability to deal fatal damage against players wearing level 2 helmets, with only level 3 helmets able to protect their wearers from one shot kills assuming they are at more than 85% health. Because of this, it is a very good weapon for long-range engagements without having the risk of going to airdrops for the other bolt-action sniper rifles. Its main drawbacks are its slow reload time when reloading, with full reloads only being somewhat faster than reloading bullets individually, and its rather slow bullet velocity, making it more challenging to engage distant enemies, particularly if they are on the move.",
+      "Attachments": {
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M24",
+      "image": "m24.png",
+      "Stats": {
+        "Hit Damage": 79,
+        "Initial Bullet Speed": "790 m/s",
+        "Body Hit Impact": 20000,
+        "Time Between Shots": "1.80s",
+        "Zero Range": "100 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 5,
+        "Reload Duration": "4.2s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 85,
+      "Range": 98,
+      "Stability": 31,
+      "Firing Rate": 7,
+      "Description": "The M24 can be seen as an upgrade to the Kar98k, with a higher muzzle velocity and damage, although it has slightly more deviation when not aiming down the sights. Being loaded via magazines, tactical reloads will be faster compared to the Kar98k's one-by-one reload, although full reloads with the M24's standard magazine will be slightly slower compared to a full reload with the Kar98k. Nevertheless, the M24 is a valuable weapon that should be prioritized for its ability to deal large amounts of damage at great distances.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(dmr,sr).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(dmr,sr).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(dmr,sr).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(dmr,sr).png"
+          },
+
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(dmr,sr).png"
+          },
+
+          {
+            "name": "Suppressor",
+            "image": "suppressor(dmr,sr).png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "8x CQBSS Scope",
+            "image": "8xcqbssscope.png"
+          },
+          {
+            "name": "15x PM II Scope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {
+            "name": "Cheek Pad",
+            "image": "cheekpad.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Win94",
+      "image": "win94.png",
+      "Stats": {
+        "Hit Damage": 66,
+        "Initial Bullet Speed": "760 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.60s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Single",
+        "Ammo Type": ".45 ACP",
+        "Magazine Size": 8,
+        "Reload Duration": "4.0s",
+        "Attachment Points": 1,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "DMRs",
+      "Power": 60,
+      "Range": 84,
+      "Stability": 53,
+      "Firing Rate": 17,
+      "Description": "The Winchester Model 1894 is a starting medium to long range rifle that uses .45 ACP rounds. It is a guaranteed knock down in case of a head shot, when the victim does not have a level 2 helmet or higher. The only attachments available for the rifle are sniper rifle bullet loops(allowing for quicker reload speed), making it only useful for very early game.",
+      "Attachments": {
+        "Stocks": [
+          {
+            "name": "Bullet Loops",
+            "image": "bulletloops.png"
+          }
+        ]
+      }
+    }
+  ],
+  "Shotguns": [
+    {
+      "name": "S12K",
+      "image": "s12k.png",
+      "Stats": {
+        "Hit Damage": 198,
+        "Damage Per Pellet": 22,
+        "Pellet Count": 9,
+        "Initial Bullet Speed": "350 m/s",
+        "Body Hit Impact": 5000,
+        "Time Between Shots": "0.250s",
+        "Zero Range": "25 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "12 Gauge",
+        "Magazine Size": 5,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Shotguns",
+      "Power": 81,
+      "Range": 9,
+      "Stability": 85,
+      "Firing Rate": 14,
+      "Description": "What the S12K lacks in range, it makes up in sheer volume. The S12K is a devastating weapon at close range while its semi-automatic action makes killing multiple enemies easier than with its pump-action or double-barrel counterparts. The weapon also has an advantage over other shotguns in its reloading time due to being magazine-fed. While its rate of fire allows four shells to be discharged within one second, the extreme recoil means putting multiple consecutive shots into the intended target difficult.",
+      "Attachments": {
+        "Magazines": [
+          {
+            "name": "Extended Mag",
+            "image": "extendedmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Extended QuickDraw Mag",
+            "image": "extendedquickdrawmag(ar,dmr,s12k).png"
+          },
+          {
+            "name": "QuickDraw Mag",
+            "image": "quickdrawmag(ar,dmr,s12k).png"
+          }
+        ],
+        "Muzzles": [
+          {
+            "name": "Compensator",
+            "image": "compensator(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Flash Hider",
+            "image": "flashhider(ar,dmr,s12k).png"
+          },
+          {
+            "name": "Suppressor",
+            "image": "suppressor(ar,dmr,s12k).png"
+          },
+          {
+            "name":  "Duckbill",
+            "image": "duckbill.png"
+          }
+
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },
+          {
+            "name": "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "S1897",
+      "image": "s1897.png",
+      "Stats": {
+        "Hit Damage": 216,
+        "Damage Per Pellet": 24,
+        "Pellet Count": 9,
+        "Initial Bullet Speed": "360 m/s",
+        "Body Hit Impact": 5000,
+        "Time Between Shots": "0.750s",
+        "Zero Range": "25 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "12 Gauge",
+        "Magazine Size": 5,
+        "Reload Duration": "4.0s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Shotguns",
+      "Power": 92,
+      "Range": 7,
+      "Stability": 77,
+      "Firing Rate": 8,
+      "Description": "The Winchester Model 1897 \"Trench Gun\" (simply called the S1897 in-game) was designed by John Moses Browning. More than a million have been produced during its service era, used in conflicts from the Philippine-American War all the way through to the Gulf War. Typically chambered for 12 and 16 gauge, the in-game iteration is chambered solely for 12 gauge shotshell. Since its introduction in 1897 it has seen usage with military, law enforcement and hunters due to its effectiveness in close range combat, and now sees usage within BATTLEGROUNDS as a common shotgun.",
+      "Attachments": {
+        "Muzzles": [
+          {"name": "Choke","image": "choke.png"},
+          {"name": "Duckbill","image": "duckbill.png"}
+        ],
+        "Stocks": [
+          {"name":  "Bullet Loops","image": "bulletloops.png"}
+        ]
+      }
+    },
+    {
+      "name": "S686",
+      "image": "s686.png",
+      "Stats": {
+        "Hit Damage": 216,
+        "Damage Per Pellet": 24,
+        "Pellet Count": 9,
+        "Initial Bullet Speed": "370 m/s",
+        "Body Hit Impact": 5000,
+        "Time Between Shots": "0.200s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "12 Gauge",
+        "Magazine Size": 2,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Shotguns",
+      "Power": 100,
+      "Range": 12,
+      "Stability": 77,
+      "Firing Rate": 6,
+      "Description": "The S686 offers unparalleled burst damage in CQB due to its ability to almost instantaneously fire two 12-gauge shells, but it quickly loses damage at range unless equipped with a choke, and has a very long reload time, making dealing with enemies at range or more than one enemy difficult. Although it is tied with the sawed-off shotgun in that both have the lowest ammo capacity of the shotguns in the game, the S686 has the fastest rate of fire of all the shotguns, allowing for skilled users to potentially gain an upper hand in otherwise unfortunate situations. When fitted with a choke, the S686 can perform surprisingly well at distances up to 15m. The low ammo capacity leaves no room for error however, as a missed shot can mean a quick death.",
+      "Attachments": {
+        "Muzzles": [
+          {"name": "Choke","image": "choke.png"}
+        ],
+        "Stocks": [
+          {"name":  "Bullet Loops","image": "bulletloops.png"}
+        ]
+      }
+    },
+    {
+      "name": "Sawed-Off",
+      "image": "sawed-off.png",
+      "Stats": {
+        "Hit Damage": 160,
+        "Damage Per Pellet": 20,
+        "Pellet Count": 8,
+        "Initial Bullet Speed": "330 m/s",
+        "Body Hit Impact": 4000,
+        "Time Between Shots": "0.250s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Semi Auto",
+        "Ammo Type": "12 Gauge",
+        "Magazine Size": 2,
+        "Reload Duration": "4.0s",
+        "Attachment Points": 1,
+        "Capacity": 80
+      },
+      "Category": "Weapons",
+      "Subcategory": "Shotguns",
+      "Power": 20,
+      "Range": 16,
+      "Stability": 43,
+      "Firing Rate": 7,
+      "Description": "The smallest shotgun available in the game, the Sawed-off functions like a pocket S686, albeit with higher spread due to the short barrel. It has two barrels, side-by-side, and as such can hold two rounds. Like the S686, it can quickly fire off both barrels to quickly do a lot of damage. The Sawed-Off has the highest potential damage of any handgun, but also the lowest potential damage and depending on the distance to the target. It has the shortest effective range of all handguns, and is really only useful shortly after landing or in point-blank CQB situations.",
+      "Attachments": {
+        "Muzzles": [
+          {"name": "Choke","image": "choke.png"}
+        ]
+      }
+    }
+  ],
+  "Submachine Guns": [
+    {
+      "name": "Bizon",
+      "image": "bizon.png",
+      "Stats": {
+        "Hit Damage": 35,
+        "Initial Bullet Speed": "408 m/s",
+        "Body Hit Impact": 6000,
+        "Time Between Shots": "0.085s",
+        "Zero Range": "100 - 300 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 53,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 33,
+      "Range": 30,
+      "Stability": 35,
+      "Firing Rate": 78,
+      "Description": "Right at home in its Eastern European origins, this weapon is exclusive to Erangel and Vikendi. While in full-auto, its best suited for quick and accurate sparring in close-range. Because of the unique helical magazine that runs along the barrel, this SMG doesn't support magazine upgrades or lower rail attachments. However, the weapon has high firing stability built-in, which allows for low recoil even without a grip. With only a muzzle and sight attachment to add, you'll have a fully kitted and reliable short-range weapon in your hands faster than ever before. The Bizon is quiet but deadly 9mm submachine gun, the Bizon is best suited for quick but accurate sparring in close-range, but keep in mind that it comes with a bit of a kick",
+      "Attachments": {
+        "Muzzles": [
+            {"name": "Compensator","image": "compensator(smg).png"},
+            {"name": "Flash Hider ","image": "flashhider(smg).png"},
+            {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MP5K",
+      "image": "mp5k.png",
+      "Stats": {
+        "Hit Damage": 33,
+        "Initial Bullet Speed": "350 m/s",
+        "Body Hit Impact": 6000,
+        "Time Between Shots": "0.050s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Single,Burst,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 30,
+        "Reload Duration": "3.0s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 34,
+      "Range": 38,
+      "Stability": 36,
+      "Firing Rate": 71,
+      "Description": "The MP5K is a sub-machine gun chambered for 9mm ammunition. While the firing mechanics of the MP5K are similar to those of the Vector, it boasts a higher per bullet damage, but with a lower overall firing rate and DPS.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+
+        ],
+        "Stocks": [
+          {"name": "Tactical Stock", "image": "tacticalstock.png"}
+        ]
+      }
+    },
+    {
+      "name": "Micro UZI",
+      "image": "microuzi.png",
+      "Stats": {
+        "Hit Damage": 26,
+        "Initial Bullet Speed": "350 m/s",
+        "Body Hit Impact": 5000,
+        "Time Between Shots": "0.048s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 25,
+        "Reload Duration": "3.1s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 21,
+      "Range": 22,
+      "Stability": 30,
+      "Firing Rate": 69,
+      "Description": "This weapon excels at taking out enemies right after landing from the plane, while everyone is still focused on finding gear. Its high rate of fire also makes it an excellent room clearer, although this also makes it uncontrollable at longer ranges. Since the weapon deals the least damage out of all the SMGs, using this weapon during mid- to end-games is usually not recommended because most players will be equipped with better armor and guns. When fully modded with extended mags, a stock and a compensator, this gun becomes quite controllable and can be surprisingly viable in the final stages of the game, although the extremely high rate of fire will burn through ammo quickly if many shots miss.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Compensator","image": "compensator(smg).png"},
+          {"name": "Flash Hider ","image": "flashhider(smg).png"},
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Stocks": [
+          {"name": "Stock", "image": "stock.png"}
+        ]
+      }
+    },
+    {
+      "name": "Tommy Gun",
+      "image": "tommygun.png",
+      "Stats": {
+        "Hit Damage": 40,
+        "Initial Bullet Speed": "280 m/s",
+        "Body Hit Impact": 7000,
+        "Time Between Shots": "0.086s",
+        "Zero Range": "100 - 200 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": ".45 ACP",
+        "Magazine Size": 30,
+        "Reload Duration": "3.45s",
+        "Attachment Points": 3,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 43,
+      "Range": 46,
+      "Stability": 30,
+      "Firing Rate": 58,
+      "Description": "Nicknamed \"The Chicago Typewriter,\" The Thompson submachine gun is an American submachine gun, invented by John T. Thompson in 1918, that became infamous during the prohibition era. It was a common sight in the media of the time, being used by both law enforcement officers and criminals. Once in extensive use among US troops during WWII, as well as British forces supplied by the US Army, this weapon now sees use for mowing down other players unfortunate enough to be caught in its line of fire.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {"name": "Vertical Foregrip","image": "verticalforegrip.png"}
+        ]
+      }
+    },
+    {
+      "name": "UMP9",
+      "image": "ump9.png",
+      "Stats": {
+        "Hit Damage": 39,
+        "Initial Bullet Speed": "400 m/s",
+        "Body Hit Impact": 7000,
+        "Time Between Shots": "0.092s",
+        "Zero Range": "100 - 300 m",
+        "Firing Modes": "Single,Burst,Auto",
+        "Ammo Type": ".45 ACP",
+        "Magazine Size": 25,
+        "Reload Duration": "3.1s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 30,
+      "Range": 29,
+      "Stability": 28,
+      "Firing Rate": 61,
+      "Description": "The UMP, short for Universal Machine pistol, is a submachine gun designed by Heckler & Koch. The UMP is the successor to the MP5, though both are in service to this day. Widely adopted by police and governmental agencies, with wide adoption specifically amongst the U.S. Customs and Border Protection agency, it also sees popularity with players as an well-rounded, balanced SMG with manageable recoil and decent firepower.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Compensator","image": "compensator(smg).png"},
+          {"name": "Flash Hider ","image": "flashhider(smg).png"},
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Angled Foregrip",
+            "image": "angledforegrip.png"
+          },
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Thumb Grip",
+            "image": "thumbgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Vector",
+      "image": "vector.png",
+      "Stats": {
+        "Hit Damage": 31,
+        "Initial Bullet Speed": "350 m/s",
+        "Body Hit Impact": 7000,
+        "Time Between Shots": "0.055s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single,Burst,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 19,
+        "Reload Duration": "2.2s",
+        "Attachment Points": 4,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Submachine Guns",
+      "Power": 28,
+      "Range": 20,
+      "Stability": 29,
+      "Firing Rate": 53,
+      "Description": "The Vector, with its low recoil and average damage is most useful in close to mid-range combat. Boasting a very high rate of fire and low recoil, this gun also has the benefit of having the most attachment slots of all the SMGs to further increase its performance. The major downside to this gun is — aside from it being less powerful per shot than the UMP9 — its rather small magazine capacity of 19 rounds. Thus, extended magazines are a must for anyone wishing to use this gun further into the match.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag ","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Compensator","image": "compensator(smg).png"},
+          {"name": "Flash Hider ","image": "flashhider(smg).png"},
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {"name":"Tactical Stock", "image": "tacticalstock.png"}
+        ]
+      }
+    }
+  ],
+  "Lightmachine Guns": [
+    {
+      "name": "DP-28",
+      "image": "dp-28.png",
+      "Stats": {
+        "Hit Damage": 51,
+        "Initial Bullet Speed": "715 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.109s",
+        "Zero Range": "100 - 1000 m",
+        "Firing Modes": "Auto",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 47,
+        "Reload Duration": "5.5s",
+        "Attachment Points": 1,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Lightmachine Guns",
+      "Power": 44,
+      "Range": 36,
+      "Stability": 28,
+      "Firing Rate": 43,
+      "Description": "A slow but hard hitting machine gun, its distinctive 47-round pan magazine strikes a balance between the firepower of a full-power cartridge with the support capability of a machine gun. Its slow cyclic rate of fire means that its relatively strong recoil is somewhat manageable. Being a vintage weapon, it lacks attachments, being only capable of accepting sights up to the 6x scope, allowing greatly increased range for supporting fire.",
+      "Attachments": {
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "M249",
+      "image": "m249.png",
+      "Stats": {
+        "Hit Damage": 45,
+        "Initial Bullet Speed": "915 m/s",
+        "Body Hit Impact": 10000,
+        "Time Between Shots": "0.075s",
+        "Zero Range": "100 - 500 m",
+        "Firing Modes": "Auto",
+        "Ammo Type": "5.56mm",
+        "Magazine Size": 10,
+        "Reload Duration": "8.2s",
+        "Attachment Points": 1,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Lightmachine Guns",
+      "Power": 41,
+      "Range": 67,
+      "Stability": 36,
+      "Firing Rate": 72,
+      "Description": "With 100 rounds of 5.56mm ammo per magazine, the M249 excels at room clearing, dealing slightly more damage than the 5.56mm assault rifles with a rate of fire as fast as that of the M16A4. The recoil is somewhat low, however the high rate of fire makes it harder to control. The bipod can be enabled by going prone, greatly reducing recoil compared to firing from a standing or crouched position, allowing more precise shots against distant targets. This has been changed in older patches, where you are no longer able to put 8x and 15x scopes on LMGs, SMGs or ARs, only being DMR or SR compatible.",
+      "Attachments": {
+        "Scopes": [
+          {
+            "name": "2x Aimpoint Scope",
+            "image": "2xaimpointscope.png"
+          },
+          {
+            "name": "3x Backlit Scope",
+            "image": "3xbacklitscope.png"
+          },
+          {
+            "name": "4x ACOG Scope",
+            "image": "4xacogscope.png"
+          },
+          {
+            "name": "6x Scope",
+            "image": "6xscope.png"
+          },{
+            "name": "8xCqbssscope",
+            "image": "8xcqbssscope.png"
+          },{
+            "name": "15xPmiiscope",
+            "image": "15xpmiiscope.png"
+          },
+          {
+            "name": "Canted sight",
+            "image": "cantedsight.png"
+          },
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    }
+  ],
+  "Pistols": [
+    {
+      "name": "P18C",
+      "image": "p18c.png",
+      "Stats": {
+        "Hit Damage": 23,
+        "Initial Bullet Speed": "375 m/s",
+        "Body Hit Impact": 7000,
+        "Time Between Shots": "0.06s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 17,
+        "Reload Duration": "2.0s",
+        "Attachment Points": 3,
+        "Capacity": 100
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 17,
+      "Range": 10,
+      "Stability": 24,
+      "Firing Rate": 67,
+      "Description": "The P18C is a automatic secondary and because of this it's the lowest damaging pistol in the game. Despite this, it actually boasts the highest damage per second of all the pistols, even rivaling submachine guns in terms of utility. The P18C is the best secondary in the game in terms of putting down lead downrange in a hurry and can even sometimes be used as a primary if you wish to do so. The high rate of fire means a good amount of damage per second but with a rather high recoil, so users might use the P18C with attachments such as sights and barrel attachments.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag (Pistol,SMG)","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag (Pistol,SMG)","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag (Pistol,SMG)","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "P1911",
+      "image": "p1911.png",
+      "Stats": {
+        "Hit Damage": 41,
+        "Initial Bullet Speed": "250 m/s",
+        "Body Hit Impact": 6000,
+        "Time Between Shots": "0.110s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single",
+        "Ammo Type": ".45 ACP",
+        "Magazine Size": 7,
+        "Reload Duration": "2.1s",
+        "Attachment Points": 3,
+        "Capacity": 100
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 31,
+      "Range": 15,
+      "Stability": 25,
+      "Firing Rate": 29,
+      "Description": "The P1911 packs a punch in a small package. Its damage output is limited only by the small magazine size and the skill of its operator. It is therefore advisable to find an extended or extended quickdraw magazine as soon as possible if planning to keep this weapon as its magazine capacity is almost doubled, greatly increasing its potential as a backup weapon. Due to its slow muzzle velocity of 250 meters per second, it is inadvisable to use this gun at ranges further than 50 meters.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag (Pistol,SMG)","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag (Pistol,SMG)","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag (Pistol,SMG)","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "P92",
+      "image": "p92.png",
+      "Stats": {
+        "Hit Damage": 35,
+        "Initial Bullet Speed": "380 m/s",
+        "Body Hit Impact": 7000,
+        "Time Between Shots": "0.090s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "9mm",
+        "Magazine Size": 15,
+        "Reload Duration": "2.0s",
+        "Attachment Points": 3,
+        "Capacity": 100
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 26,
+      "Range": 14,
+      "Stability": 24,
+      "Firing Rate": 53,
+      "Description": "The P92 is the middle ground of the pistols, with a balance of firepower and ammo capacity. With a modest rate of fire and steady hands, this pistol can quickly determine the winner in early game fights while everyone is rushing to find guns. It makes a good backup weapon for emergencies and while extended magazines may seem tempting due to the capacity increase, quickdraw magazines may prove more beneficial for users who frequently reload, at least until extended quickdraw magazines can be found.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag (Pistol,SMG)","image": "extendedmag(pistol,smg).png"},
+          {"name": "Extended QuickDraw Mag (Pistol,SMG)","image": "extendedquickdrawmag(pistol,smg).png"},
+          {"name": "QuickDraw Mag (Pistol,SMG)","image": "quickdrawmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "R1895",
+      "image": "r1895.png",
+      "Stats": {
+        "Hit Damage": 55,
+        "Initial Bullet Speed": "330 m/s",
+        "Body Hit Impact": 8000,
+        "Time Between Shots": "0.40s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "7.62mm",
+        "Magazine Size": 7,
+        "Reload Duration": "6.25s",
+        "Attachment Points": 1,
+        "Capacity": 80
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 41,
+      "Range": 31,
+      "Stability": 29,
+      "Firing Rate": 10,
+      "Description": "The Nagant M1895 (simply called the R1895 in-game) is a seven-shot revolver originally issued to members and combatants of the Russian Empire. It was originally chambered for the proprietary 7.62x38mmR round, but because of its dimensions, it can also fire .32S&W, .32S&W Long, and .32H&R Magnum cartridges. It solves the issue of reduced muzzle velocities found on conventional revolvers caused by escaping gas, with a unique gas-seal system, making it one of the few revolvers in the world that can be reliably suppressed with the usage of the proprietary ammunition.",
+      "Attachments": {
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ]
+      }
+    },
+    {
+      "name": "R45",
+      "image": "r45.png",
+      "Stats": {
+        "Hit Damage": 55,
+        "Initial Bullet Speed": "330 m/s",
+        "Body Hit Impact": 8000,
+        "Time Between Shots": "0.250s",
+        "Zero Range": "50 m",
+        "Firing Modes": "Single",
+        "Ammo Type": ".45 ACP",
+        "Magazine Size": 6,
+        "Reload Duration": "3.2s",
+        "Attachment Points": 1,
+        "Capacity": 80
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 47,
+      "Range": 29,
+      "Stability": 43,
+      "Firing Rate": 21,
+      "Description": "A powerful revolver that can be seen as Miramar's version of the R1895, it has one less round than the R1895, but reloads with a speedloader instead of loading individual rounds, greatly reducing reload time. It also uses the common .45 Ammo instead of 7.62mm rounds. Like the R1895, it can only accept one type of attachment, but instead of a suppressor it can only mount a red dot sight instead, allowing for a clearer sight picture, although the existing sights are relatively clear compared to the R1895.",
+      "Attachments": {
+        "Grips": [
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Skorpion",
+      "image": "skorpion.png",
+      "Stats": {
+        "Hit Damage": 22,
+        "Initial Bullet Speed": "350 m/s",
+        "Body Hit Impact": 5000,
+        "Time Between Shots": "0.070s",
+        "Zero Range": "100 m",
+        "Firing Modes": "Single,Auto",
+        "Ammo Type": "9mm",
+        "Magazine Size": 20,
+        "Reload Duration": "3.1s",
+        "Attachment Points": 5,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Pistols",
+      "Power": 23,
+      "Range": 12,
+      "Stability": 25,
+      "Firing Rate": 56,
+      "Description": "A full-sized machine pistol that occupies the sidearm slot, the Skorpion is very controllable for such a weapon, even when fired in full auto. With a 20 round magazine as standard and capable of being increased to 40, it can serve as a dependable pocket SMG to free up the other weapon slots for more powerful guns. It should be noted however that its inability to accept quickdraw or extended quickdraw magazines leave it with a rather lengthy reload time for a sidearm.",
+      "Attachments": {
+        "Magazines": [
+          {"name": "Extended Mag (Pistol,SMG)","image": "extendedmag(pistol,smg).png"}
+        ],
+        "Muzzles": [
+          {"name": "Suppressor","image":"suppressor(pistol,smg).png"}
+        ],
+        "Grips": [
+          {
+            "name": "Half Grip",
+            "image": "halfgrip.png"
+          },
+          {
+            "name": "Laser Sight",
+            "image": "lasersight.png"
+          },
+          {
+            "name": "Light Grip",
+            "image": "lightgrip.png"
+          },
+          {
+            "name": "Vertical Foregrip",
+            "image": "verticalforegrip.png"
+          }
+        ],
+        "Scopes": [
+          {
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ],
+        "Stocks": [
+          {"name": "Stock", "image": "stock.png"}
+        ]
+      }
+    }
+  ],
+  "Melee": [
+    {
+      "name": "Crowbar",
+      "image": "crowbar.png",
+      "Stats": {
+        "Hit Damage": 60,
+        "Capacity": 120
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 53,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "Commonly used to pry objects apart, pull out nails, or swing at an assailant. It does a fair amount of damage, but the slow swing speed and overall poor melee mechanics as a whole make this weapon a last resort when all else has failed."
+    },
+    {
+      "name": "Machete",
+      "image": "machete.png",
+      "Stats": {
+        "Hit Damage": 60,
+        "Capacity": 120
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 53,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "The tapanga machete is a long and sharp metal object with a wooden handle used in game as a melee weapon that is exclusively useful against unarmed and unarmored opponents, as it is capable of taking a person without armor down in one hit."
+    },
+    {
+      "name": "Pan",
+      "image": "pan.png",
+      "Stats": {
+        "Hit Damage": 80,
+        "Capacity": 120
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 75,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "A cast-iron pan purposely built for cooking up hate for your enemies. In the game, the pan is capable of killing an unarmored opponent in two hits on the body or one hit to the head. The pan will also block bullets fired at players while equipped and while unequipped, allowing it to act as a small shield. It blocks shots from all ranged weapons in the game, including shotguns and the AWM. For these reasons, it is regarded as the best melee weapon in the game."
+    },
+    {
+      "name": "Sickle",
+      "image": "sickle.png",
+      "Stats": {
+        "Hit Damage": 60,
+        "Capacity": 120
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 53,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "A sickle is a melee weapon consisting of a long wooden rod with a sharp metal part on it. The weapon is highly effective against unarmed opponents and is relatively easy to find."
+    },
+    {
+      "name": "Punch",
+      "image": "punch.png",
+      "Stats": {
+        "Hit Damage": 18,
+        "Capacity": 0
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 16,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "Simple punch with hand, No need for weapon!"
+    },
+    {
+      "name": "Jumping Punch",
+      "image": "jumpingpunch.png",
+      "Stats": {
+        "Hit Damage": 38,
+        "Capacity": 0
+      },
+      "Category": "Weapons",
+      "Subcategory": "Melee",
+      "Power": 25,
+      "Range": 0,
+      "Stability": 0,
+      "Firing Rate": 0,
+      "Description": "Jumping punch with hand, No need for weapon!"
+    }
+  ],
+  "Throwables": [
+    {
+      "name": "Frag Grenade",
+      "image": "fraggrenade.png",
+      "Stats": {
+        "Throw Time": "1.30s",
+        "Throw Cooldown": "2.00s",
+        "Fire Delay": "0.40s",
+        "Capacity": 18
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "A Frag Grenade, colloquial for Fragmentation Grenade, is any grenade designed to use an explosive charge to fragment the outer shell of the grenade in a shaped or radial pattern. This fragmentation results in shrapnel, which spreads out in a pattern, causing severe damage to enemies within range, often killing them through massive internal damage or through pressure and shock when the grenade explodes in a closed space"
+    },
+    {
+      "name": "Molotov Cocktail",
+      "image": "molotovcocktail.png",
+      "Stats": {
+        "Throw Time": "0.85s",
+        "Throw Cooldown": "1.00s",
+        "Fire Delay": "0.40s",
+        "Capacity": 1
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "Molotov Cocktails create an area of fire on the ground around where they impact. Players hit by or passing through this area will be set aflame, doing constant damage over time. Molotov Cocktails can be used offensively, but don't bounce like other throwable weapons. Another potential use of a molotov cocktail is area denial. If you set the staircase on fire, players will not be able to pursue you up to higher floors, and you can use this extra time to set up a kill zone or escape off a balcony. Molotov cocktails can also be used defensively to obscure an enemy's line of sight, similar to a Smoke Grenade."
+    },
+    {
+      "name": "Smoke Grenade",
+      "image": "smokegrenade.png",
+      "Stats": {
+        "Throw Time": "1.30s",
+        "Throw Cooldown": "1.00s",
+        "Fire Delay": "0.40s",
+        "Capacity": 14
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "Smoke grenades are a throwable device packed with a mixture of potassium chlorate, lactose, and typically a dye for signalling. The chemicals mix with air to create a smoke screen that temporarily removes battlefield awareness."
+    },
+    {
+      "name": "Stun Grenade",
+      "image": "stungrenade.png",
+      "Stats": {
+        "Throw Time": "1.30s",
+        "Throw Cooldown": "1.00s",
+        "Fire Delay": "0.40s",
+        "Capacity": 12
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "A Stun Grenade, also known as a flash grenade or flashbang, is a grenade with several chemical and metallurgic properties that result in a loud pop and blinding flash of light when detonated. This grenade is meant to cause temporary, not permanent damage, and is great for non-mortal wounding, though it is often used as a precursor to armed conflict to clear rooms and buildings.\n\n"
+    },
+    {
+      "name": "Apple",
+      "image": "apple.png",
+      "Stats": {
+        "Throw Time": "1.30s",
+        "Throw Cooldown": "1.50s",
+        "Fire Delay": "0.40s",
+        "Capacity": 1
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "Just a Newton's Apple!"
+    },
+    {
+      "name": "Snowball",
+      "image": "snowball.png",
+      "Stats": {
+        "Throw Time": "1.30s",
+        "Throw Cooldown": "1.50s",
+        "Fire Delay": "0.40s",
+        "Capacity": 1
+      },
+      "Category": "Weapons",
+      "Subcategory": "Throwables",
+      "Description": "Snow + ball = Snowball. It's cold!"
+    }
+  ],
+  "Misc": [
+    {
+      "name": "Crossbow",
+      "image": "crossbow.png",
+      "Stats": {
+        "Hit Damage": 105,
+        "Initial Bullet Speed": "160 m/s",
+        "Body Hit Impact": 8000,
+        "Time Between Shots": "0.075s",
+        "Zero Range": "25 m",
+        "Firing Modes": "Single",
+        "Ammo Type": "Bolt",
+        "Magazine Size": 1,
+        "Reload Duration": "3.550s",
+        "Attachment Points": 2,
+        "Capacity": 500
+      },
+      "Category": "Weapons",
+      "Subcategory": "Misc",
+      "Power": 95,
+      "Range": 16,
+      "Stability": 0,
+      "Firing Rate": 2,
+      "Description": "The crossbow is a short to medium ranged weapon. It does very high damage, with a shot to the torso capable of killing an unarmored enemy in one shot and headshots being instant kills, even through Spetsnaz helmets. It is also completely silent, allowing for stealthy kills.",
+      "Attachments": {
+        "Grips": [
+          {"name": "Quiver", "image": "quiver.png"}
+        ],
+        "Scopes": [
+          {
+            "name": "Holographic Sight",
+            "image": "holographicsight.png"
+          },{
+            "name":  "Red Dot Sight",
+            "image": "reddotsight.png"
+          }
+        ]
+      }
+    }
+  ],
+  "Scopes": [
+    {
+      "name": "2x Aimpoint Scope",
+      "image": "2xaimpointscope.png",
+      "Stats": {
+        "Magnification": "x1.8",
+        "Capacity": 15,
+        "ADS Speed": "+10%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "While this scope appears mediocre in regard to its zoom power and reticle, the reticle allows the user an improvised method of rangefinding - a standing person 100 meters away will fit perfectly between the top and bottom of the outer circle, and a standing person 200 meters away will fit between the center dot and the outer circle. At 300 meters, the width of a standing person will be obscured by the center dot. Keeping this in mind, aim can then be adjusted for whichever range the target is at to deal precision shots and as most engagements typically take place within 300 meters, the usefulness of this scope is often underestimated. The brightness of the reticle can also be adjusted to current lighting conditions.",
+      "Attachable Weapons": {
+        "Rifles": [
+          "AKM",
+          "Mk47 Mutant",
+          "Beryl M762",
+          "G36C",
+          "M16A4",
+          "M416",
+          "SCAR-L",
+          "Groza",
+          "AUG",
+          "QBZ"
+        ],
+        "Shotguns": [
+          "S12K"
+        ],
+        "Sniper Rifles": [
+          "Kar98k",
+          "M24",
+          "AWM"
+        ],
+        "DMRs": [
+          "SLR",
+          "QBU",
+          "Mk14 EBR‎",
+          "Mini 14",
+          "SKS"
+        ],
+        "Lightmachine Guns": [
+          "DP-28",
+          "M249"
+        ],
+        "Submachine Guns": [
+          "Vector",
+          "MP5K",
+          "UMP9"
+        ]
+      }
+    },
+    {
+      "name": "3x Backlit Scope",
+      "image": "3xbacklitscope.png",
+      "Stats": {
+        "Magnification": "x3",
+        "Capacity": 15,
+        "ADS Speed": "+10%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "The 3x scope represents a compromise between the 2x and 4x scopes. The reticle can be used as a rangefinder for targets between 100 meters out to 400 meters by using the shoulder width of a target and matching it up with the horizontal lines. The reticle brightness can also be adjusted to current lighting conditions. Because the 3x scope's magnification sets the field of view to 26.66°,players using a default field of view value higher than 80° will technically get slightly more than 3x magnification power due to the greater difference in FOV values.",
+      "Attachable Weapons": [
+        "UMP9",
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "SKS",
+        "S12K",
+        "M249",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "Vector",
+        "Groza",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "DP-28",
+        "AUG",
+        "SLR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "4x ACOG Scope",
+      "image": "4xacogscope.png",
+      "Stats": {
+        "Magnification": "x4",
+        "Capacity": 15,
+        "ADS Speed": "0%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "The ACOG scope allows for the user to engage targets at medium to long ranges. With a built in rangefinder, and its 4x zoom, the ACOG scope is one of the most useful attachments a player can come across, as such it is highly recommended to take it, even if you do not have a weapon that can accept it.",
+      "Attachable Weapons": [
+        "UMP9",
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "SKS",
+        "S12K",
+        "M249",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "Vector",
+        "Groza",
+        "SKS",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "DP-28",
+        "AUG",
+        "SLR",
+        "Crossbow",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "6x Scope",
+      "image": "6xscope.png",
+      "Stats": {
+        "Magnification": "x6",
+        "Capacity": 15,
+        "ADS Speed": "-20%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "The 6x scope is a rare world spawn, being the highest powered scope for guns that don't fall into the category of DMR or sniper rifle. The reticle also features a stadiametric rangefinder suitable for standing targets between 300 to 800 meters. This scope is very versatile due to its simple rangefinder and ability to zoom out to 3x magnification, as well as its compatibility with assault rifles and submachine guns, greatly extending the range at which opponents can be attacked at.",
+      "Attachable Weapons": [
+        "Crossbow",
+        "UMP9",
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "SKS",
+        "S12K",
+        "M249",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "Vector",
+        "Groza",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "DP-28",
+        "AUG",
+        "SLR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "8x CQBSS Scope",
+      "image": "8xcqbssscope.png",
+      "Stats": {
+        "Magnification": "x7.25",
+        "Capacity": 20,
+        "ADS Speed": "-20%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "This variable power scope is a must-have for anyone wishing to engage targets at long ranges. It is ideal for weapons with high muzzle velocities as compensation of gravity and bullet speed is not required as much compared to weapons with slower bullet velocities. Scope sway may be an issue at further ranges, therefore it is recommended to hold one's breath before firing.",
+      "Attachable Weapons": [
+        "SKS",
+        "M249",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "15x PM II Scope",
+      "image": "15xpmiiscope.png",
+      "Stats": {
+        "Magnification": "x12",
+        "Capacity": 20,
+        "ADS Speed": "-22%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "This variable power scope can zoom in even further than the 8x CQBSS, allowing for extreme range sharpshooting, and thus is best used with weapons that have a high bullet velocity in order to reduce the need to compensate for both gravity and bullet travel time. As such, the Mini-14 works well since it has the fastest initial bullet speed of any gun in the game, surpassing even the powerful AWM, although the superior ballistics of the AWM's .300 Magnum ammo mean that it has less drag than the Mini-14. Due to its very strong zoom, scope sway is also drastically exaggerated, requiring the user to hold their breath before every shot if engaging targets at extreme distances. The strong zoom also necessitates keeping a spare lower power sight in the inventory for closer range encounters.",
+      "Attachable Weapons": [
+        "SKS",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Canted Sight",
+      "image": "cantedsight.png",
+      "Stats": {
+        "Capacity": 10,
+        "ADS Speed": "+20%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "With the Canted Sight, the weapon's position and view of angle might feel slightly different than before while in ADS. However, any features which might affect gunplay, such as scope's position in ADS, FOV, and recoil, were not changed.",
+      "Attachable Weapons": [
+        "Beryl M762",
+        "AWM",
+        "AUG A3",
+        "M416",
+        "Mk47 Mutant",
+        "QBZ",
+        "SCAR-L",
+        "G36C",
+        "SLR",
+        "Mini 14",
+        "Mk14 EBR‎",
+        "QBU",
+        "SKS",
+        "AWM",
+        "M24",
+        "Kar98k",
+        "UMP9",
+        "Vector",
+        "Bizon‎‎",
+        "S12K",
+        "M249",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Holographic Sight",
+      "image": "holographicsight.png",
+      "Stats": {
+        "Capacity": 10,
+        "ADS Speed": "+20%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "A reflex sight with a sharp reticle, although the bulky frame can reduce some situational awareness compared to the red dot sight. Recommended for closer range fights. The reticle's brightness can be adjusted by rolling the mouse wheel, and its color changed between either green or red with the zeroing keys. At 100 meters, a standing person will fit within the outer circle of the reticle, allowing for quick rangefinding.",
+      "Attachable Weapons": [
+        "AKM",
+        "AUG",
+        "AWM",
+        "Beryl M762",
+        "Crossbow",
+        "DP-28",
+        "G36C",
+        "Groza",
+        "Kar98k",
+        "M16A4",
+        "M249",
+        "M24",
+        "M416",
+        "MP5K",
+        "Mini 14",
+        "Mk14 EBR",
+        "Mk47 Mutant",
+        "P18C",
+        "P1911",
+        "P92",
+        "Bizon",
+        "QBU",
+        "QBZ",
+        "R45",
+        "S12K",
+        "SCAR-L",
+        "SKS",
+        "SLR",
+        "Skorpion",
+        "UMP9",
+        "Vector",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Red Dot Sight",
+      "image": "reddotsight.png",
+      "Stats": {
+        "Capacity": 10,
+        "ADS Speed": "+20%"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Scopes",
+      "Description": "An open holographic sight that projects a red dot in the center of a glass or acrylic pane. It also speeds up the time it takes to aim down the sights by 20%. Compared to the holographic sight, the red dot sight has a less bulkier frame, although the reticle is somewhat blurrier. Nevertheless, the red dot sight is a good addition to any gun that can accept it as it has no major downsides over iron sights. Featuring adjustable reticle brightness and shape when not attached to a pistol, the red dot sight can be altered to suit the user's needs on the fly.",
+      "Attachable Weapons": [
+        "UMP9",
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "M249",
+        "Kar98k",
+        "M24",
+        "AWM",
+        "SKS",
+        "Crossbow",
+        "Vector",
+        "Groza",
+        "P18C",
+        "P1911",
+        "P92",
+        "Mk14 EBR‎",
+        "Mini 14",
+        "DP-28",
+        "AUG",
+        "R45",
+        "SLR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "Skorpion",
+        "G36C",
+        "MP5K"
+      ]
+    }
+  ],
+  "Magazines": [
+    {
+      "name": "Extended Mag (AR, DMR, S12K)",
+      "image": "extendedmag(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 15,
+        "Attributes": "AR Magazine Size + 10\nS12K Magazine Size +3\nDMR Magazine Size + 10"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment expands the magazine capacity of the weapon it is attached to, allowing 10 more shots to be fired before needing to reload, except S12K.",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "Groza",
+        "AUG",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C"
+      ]
+    },
+    {
+      "name": "Extended Mag (DMR, SR)",
+      "image": "extendedmag(dmr,sr).png",
+      "Stats": {
+        "Capacity": 17,
+        "Attributes": "DMR Magazine Size + 10\nSR Magazine Size + 2"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment expands the magazine capacity of the weapon it is attached to, allowing more shots to be fired before needing to reload.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "VSS",
+        "Mk14 EBR‎",
+        "Mini 14‎",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Extended Mag (Pistol, SMG)",
+      "image": "extendedmag(pistol,smg).png",
+      "Stats": {
+        "Capacity": 13,
+        "Attributes": "Pistol Magazine Size + 5\nP18C Magazine Size + 8\nSkorpion Magazine Size + 20\nSMG Magazine Size + 10\nTommy Gun Magazine Size + 20\nVector Magazine Size + 12"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment expands the magazine capacity of the weapon it is attached to, allowing more shots to be fired before needing to reload.",
+      "Attachable Weapons": [
+        "MP5K",
+        "Micro UZI",
+        "P18C",
+        "P1911",
+        "P92",
+        "Skorpion",
+        "Tommy Gun",
+        "UMP9",
+        "Vector",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Extended QuickDraw Mag (AR, DMR, S12K)",
+      "image": "extendedquickdrawmag(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 20,
+        "Attributes": "+30 Reload Speed\nAR Magazine Size + 10\nS12K Magazine Size +3\nDMR Magazine Size + 10"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "Extended Mag(AR,DMR,S12K) + Quickdraw Mag(AR,DMR,S12K)",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "Groza",
+        "AUG",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C"
+      ]
+    },
+    {
+      "name": "Extended QuickDraw Mag (DMR, SR)",
+      "image": "extendedquickdrawmag(dmr,sr).png",
+      "Stats": {
+        "Capacity": 23,
+        "Attributes": "+30 Reload Speed\nDMR Magazine Size + 10\nSR Magazine Size + 2"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "Extended Mag(DMR,SR) + Quickdraw Mag(DMR,SR)",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "VSS",
+        "Mk14 EBR‎",
+        "Mini 14‎",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Extended QuickDraw Mag (Pistol, SMG)",
+      "image": "extendedquickdrawmag(pistol,smg).png",
+      "Stats": {
+        "Capacity": 17,
+        "Attributes": "+30 Reload Speed\nPistol Magazine Size + 5\nP18C Magazine Size + 8\nSkorpion Magazine Size + 20\nSMG Magazine Size + 10\nTommy Gun Magazine Size + 20\nVector Magazine Size + 12"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "Extended Mag(Pistol,SMG) + Quickdraw Mag(Pistol,SMG)",
+      "Attachable Weapons": [
+        "MP5K",
+        "Micro UZI",
+        "P18C",
+        "P1911",
+        "P92",
+        "Tommy Gun",
+        "UMP9",
+        "Vector",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "QuickDraw Mag (AR, DMR, S12K)",
+      "image": "quickdrawmag(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 14,
+        "Attributes": "+30 Reload Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment reduces the time it takes to reload the weapon it is attached to by 30%, cutting the downtime between attacks.",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "Groza",
+        "AUG",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C"
+      ]
+    },
+    {
+      "name": "QuickDraw Mag (DMR, SR)",
+      "image": "quickdrawmag(dmr,sr).png",
+      "Stats": {
+        "Capacity": 16,
+        "Attributes": "+30 Reload Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment reduces the time it takes to reload the weapon it is attached to by 30%, cutting the downtime between attacks.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "VSS",
+        "Mk14 EBR‎",
+        "Mini 14‎",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "QuickDraw Mag (Pistol, SMG)",
+      "image": "quickdrawmag(pistol,smg).png",
+      "Stats": {
+        "Capacity": 12,
+        "Attributes": "+30 Reload Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Magazines",
+      "Description": "This attachment reduces the time it takes to reload the weapon it is attached to by 30%, cutting the downtime between attacks.",
+      "Attachable Weapons": [
+        "MP5K",
+        "Micro UZI",
+        "P18C",
+        "P1911",
+        "P92",
+        "Tommy Gun",
+        "UMP9",
+        "Vector",
+        "MP5K"
+      ]
+    }
+  ],
+  "Muzzles": [
+    {
+      "name": "Choke",
+      "image": "choke.png",
+      "Stats": {
+        "Capacity": 5,
+        "Attributes": "-25% Pellet Spread"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "Appearing as relatively common loot found on the map, this attachment reduces pellet spread by 25%, creating a tighter shot cone for a greater effective range.",
+      "Attachable Weapons": [
+        "Sawed-off",
+        "S1897",
+        "S686"
+      ]
+    },
+    {
+      "name": "Compensator (AR, DMR, S12K)",
+      "image": "compensator(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-25% Recoil Pattern\n-10% Horizontal Recoil\n-15% Vertical Recoil\nS12K -10% Pellet Spread"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "Compensators are attachments with baffles that redirect muzzle gas in an effort to combat recoil or drift. It does this by redirecting the gases in the opposing direction of weapon drift and recoil so that the gas counteracts the action of the weapon. This somewhat rare attachment has no downsides, thus it is a sought-after attachment, particularly for guns with strong recoil.",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C"
+      ]
+    },
+    {
+      "name": "Compensator (DMR, SR)",
+      "image": "compensator(dmr,sr).png",
+      "Stats": {
+        "Capacity": 12,
+        "Attributes": "-25% Recoil Pattern\n-20% Horizontal Recoil\n-20% Vertical Recoil"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "Compensators are attachments with baffles that redirect muzzle gas in an effort to combat recoil or drift. It does this by redirecting the gases in the opposing direction of weapon drift and recoil so that the gas counteracts the action of the weapon. This somewhat rare attachment has no downsides, thus it is a sought-after attachment, particularly for guns with strong recoil.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "Kar98k",
+        "Mk14 EBR",
+        "Mini 14",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Compensator (SMG)",
+      "image": "compensator(smg).png",
+      "Stats": {
+        "Capacity": 8,
+        "Attributes": "-25% Recoil Pattern\n-20% Horizontal Recoil\n-25% Vertical Recoil"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "Compensators are attachments with baffles that redirect muzzle gas in an effort to combat recoil or drift. It does this by redirecting the gases in the opposing direction of weapon drift and recoil so that the gas counteracts the action of the weapon. This somewhat rare attachment has no downsides, thus it is a sought-after attachment, particularly for guns with strong recoil.",
+      "Attachable Weapons": [
+        "Micro UZI",
+        "Bizon",
+        "UMP9",
+        "Vector"
+      ]
+    },
+    {
+      "name": "Duckbill",
+      "image": "duckbill.png",
+      "Stats": {
+        "Capacity": 5,
+        "Attributes": "-20% Pellet Spread"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "The duckbill choke spreads the shot pattern out over a wider horizontal area, allowing shotguns to be slightly more forgiving if a shot doesn't land dead center on an enemy. The increased horizontal spread therefore makes this attachment more suited towards close quarters combat rather than ranged engagements.",
+      "Attachable Weapons": [
+        "S1897",
+        "S12K"
+      ]
+    },
+    {
+      "name": "Flash Hider (AR, DMR, S12K)",
+      "image": "flashhider(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-10% Recoil Pattern\n-10% Horizontal Recoil\n-10% Vertical Recoil\nEliminates Muzzle Flash"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "The flash hider does not completely eliminate muzzle flash, but does significantly reduce it with the added benefit of slight vertical and horizontal recoil reduction. This attachment is useful for visual concealment, making it harder for victims to locate the shooter via muzzle flash at long distances, particularly in rainy or foggy conditions.",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "G36C"
+      ]
+    },
+    {
+      "name": "Flash Hider (DMR, SR)",
+      "image": "flashhider(dmr,sr).png",
+      "Stats": {
+        "Capacity": 12,
+        "Attributes": "-10% Recoil Pattern\n-10% Horizontal Recoil\n-10% Vertical Recoil\nEliminates Muzzle Flash"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "The flash hider does not completely eliminate muzzle flash, but does significantly reduce it with the added benefit of slight vertical and horizontal recoil reduction. This attachment is useful for visual concealment, making it harder for victims to locate the shooter via muzzle flash at long distances, particularly in rainy or foggy conditions.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "Kar98k",
+        "Mk14 EBR",
+        "Mini 14",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Flash Hider (SMG)",
+      "image": "flashhider(smg).png",
+      "Stats": {
+        "Capacity": 8,
+        "Attributes": "-10% Recoil Pattern\n-10% Horizontal Recoil\n-10% Vertical Recoil\nEliminates Muzzle Flash"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "The flash hider does not completely eliminate muzzle flash, but does significantly reduce it with the added benefit of slight vertical and horizontal recoil reduction. This attachment is useful for visual concealment, making it harder for victims to locate the shooter via muzzle flash at long distances, particularly in rainy or foggy conditions.",
+      "Attachable Weapons": [
+        "Micro UZI",
+        "Bizon",
+        "UMP9",
+        "Vector"
+      ]
+    },
+    {
+      "name": "Suppressor (AR, DMR, S12K)",
+      "image": "suppressor(ar,dmr,s12k).png",
+      "Stats": {
+        "Capacity": 20,
+        "Attributes": "-5% Deviation\nReduces Fire Sound"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "A very rare and highly sought after attachment, besides completely eliminating muzzle flash, the suppressor more importantly reduces the distance at which gunshots can be heard and alters the muzzle report making it significantly more difficult to locate the shooter. It also has an unmentioned effect of a slight reduction in weapon deviation. The suppressor increases the length of the weapon, meaning that obstacles further away than usual will prevent the player from entering iron sights and can present an issue in confined spaces.",
+      "Attachable Weapons": [
+        "AKM",
+        "M16A4",
+        "M416",
+        "SCAR-L",
+        "S12K",
+        "Groza",
+        "AUG",
+        "SLR",
+        "SKS",
+        "Mini 14",
+        "Mk14 EBR",
+        "QBZ",
+        "QBU",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "G36C"
+      ]
+    },
+    {
+      "name": "Suppressor (DMR, SR)",
+      "image": "suppressor(dmr,sr).png",
+      "Stats": {
+        "Capacity": 23,
+        "Attributes": "-5% Deviation\nReduces Fire Sound"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "An extremely rare and highly prized attachment, besides completely eliminating muzzle flash, the suppressor more importantly reduces the distance at which gunshots can be heard and alters the muzzle report making it significantly more difficult to locate the shooter. These attributes mesh very well with the long range precision of DMRs and sniper rifles, allowing a shooter to potentially take out victims without them even being aware of the location of the shooter. It also has an unmentioned effect of a slight reduction in weapon deviation. The suppressor increases the length of the weapon, meaning that obstacles further away than usual will prevent the player from entering iron sights and can present an issue in confined spaces.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "SKS",
+        "Kar98k",
+        "Mk14 EBR",
+        "Mini 14",
+        "SLR",
+        "QBU"
+      ]
+    },
+    {
+      "name": "Suppressor (Pistol, SMG)",
+      "image": "suppressor(pistol,smg).png",
+      "Stats": {
+        "Capacity": 15,
+        "Attributes": "-5% Deviation\nReduces Fire Sound"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Muzzles",
+      "Description": "A rare and sought after attachment for users of submachine guns and pistols, besides completely eliminating muzzle flash, the suppressor more importantly reduces the distance at which gunshots can be heard and alters the muzzle report making it significantly more difficult to locate the shooter. It also has an unmentioned effect of a slight reduction in weapon deviation. The suppressor increases the length of the weapon, meaning that obstacles further away than usual will prevent the player from entering iron sights and can present an issue in confined spaces.",
+      "Attachable Weapons": [
+        "P5K",
+        "Micro UZI",
+        "P18C",
+        "P1911",
+        "P92",
+        "Bizon",
+        "R1895",
+        "Skorpion",
+        "Tommy Gun",
+        "UMP9",
+        "Vector"
+      ]
+    }
+  ],
+  "Grips": [
+    {
+      "name": "Angled Foregrip",
+      "image": "angledforegrip.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-20% Horizontal Recoil\n-10% Faster ADS\n+20% Sway\n+5% Animation Kick\nSlightly reduces horizontal and vertical recoil."
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "While the description states that it reduces vertical recoil, in reality it only reduces horizontal recoil by 20%, however the angled foregrip also reduces the recoil pattern by 20%. It also has the unmentioned effect of decreasing the time it takes to aim down the sights by 10%. Angled Foregrip is best used for players who spray.",
+      "Attachable Weapons": [
+        "M416",
+        "SCAR-L",
+        "UMP9",
+        "SKS",
+        "AUG A3",
+        "Beryl M762‎‎",
+        "Mk47 Mutant",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Half Grip",
+      "image": "halfgrip.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-8% Horizontal Recoil\n-8% Vertical Recoil\n+20% Sway\n+15% Animation Kick\n+10% Recoil Recovery"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "The half grip reduces weapon recoil slightly and improves recoil recovery time, with a penalty to weapon stability and sway. It's most useful for spraying rounds quickly using assault rifles and submachine guns.",
+      "Attachable Weapons": [
+        "M416",
+        "SCAR-L",
+        "UMP9",
+        "Vector",
+        "SKS",
+        "AUG",
+        "Vector",
+        "QBZ",
+        "Mk47 Mutant",
+        "Skorpion",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Laser Sight",
+      "image": "lasersight.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-30% Deviation\n-50% Deviation for Pistol\n++ Hip fire Accuracy"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "The laser sight is a lower rail attachment that reduces the bullet deviation that occurs during hip-fire and target-aiming, thus making it a go-to attachment for run and gun moments. The laser itself can only be seen from a short range and is only visible to the user. Because it occupies the lower rail slot, foregrips cannot be attached to weapons using the laser sight at the same time.",
+      "Attachable Weapons": [
+        "P18C",
+        "P1911",
+        "P92",
+        "R45",
+        "UMP9",
+        "Vector",
+        "AUG",
+        "Beryl M762",
+        "M416",
+        "Mk47 Mutant",
+        "QBZ",
+        "SCAR-L",
+        "SKS",
+        "Skorpion",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Light Grip",
+      "image": "lightgrip.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-20% Sway\n-20% Animation Kick"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "Light Grip reduces recoil recovery time but increases vertical and horizontal recoil.",
+      "Attachable Weapons": [
+        "M416",
+        "SCAR-L",
+        "UMP9",
+        "SKS",
+        "AUG",
+        "Vector",
+        "QBZ",
+        "Beryl M762",
+        "Mk47 Mutant",
+        "Skorpion",
+        "G36C",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Quiver",
+      "image": "quiver.png",
+      "Stats": {
+        "Capacity": 14,
+        "Attributes": "-30% Reload Duration"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "This attachment reduces the reload time for the Crossbow by 30%, allowing for slightly quicker follow-up shots.",
+      "Attachable Weapons": [
+        "Crossbow"
+      ]
+    },
+    {
+      "name": "Thumb Grip",
+      "image": "thumbgrip.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-5% Vertical Recoil\n-20% Sway\n+30% ADS Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "Thumb Grip reduces vertical recoil but increases horizontal recoil. It also increases the recoil recovery time.",
+      "Attachable Weapons": [
+        "M416",
+        "SCAR-L",
+        "UMP9",
+        "SKS",
+        "AUG",
+        "QBZ",
+        "Mk47 Mutant",
+        "MP5K"
+      ]
+    },
+    {
+      "name": "Vertical Foregrip",
+      "image": "verticalforegrip.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-15% Vertical Recoil\n-15% Animation Kick"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Grips",
+      "Description": "The vertical foregrip reduces vertical recoil by 15% and recoil pattern by 20%. Therefore it is best suited for weapons with high vertical recoil or for long-distance shooting where precision is more of a concern over volume of fire.",
+      "Attachable Weapons": [
+        "M416",
+        "SCAR-L",
+        "UMP9",
+        "Vector",
+        "SKS",
+        "Tommy Gun",
+        "AUG",
+        "QBZ",
+        "Mk47 Mutant",
+        "Skorpion",
+        "G36C",
+        "MP5K"
+      ]
+    }
+  ],
+  "Stocks": [
+    {
+      "name": "Bullet Loops",
+      "image": "bulletloops.png",
+      "Stats": {
+        "Capacity": 15,
+        "Attributes": "+30% Reload Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Stocks",
+      "Description": "Increases reload speed by 30%.",
+      "Attachable Weapons": [
+        "S1897",
+        "S686",
+        "Kar98k",
+        "Win94"
+      ]
+    },
+    {
+      "name": "Cheek Pad",
+      "image": "cheekpad.png",
+      "Stats": {
+        "Capacity": 17,
+        "Attributes": "-20% Recoil Kick\n-10% Horizontal Recoil\n-20% Vertical Recoil\n-15% Sway\n+15% Stability Speed"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Stocks",
+      "Description": "The Cheek Pad decreases vertical recoil by 20% and first shot recovery time. Decreases vertical recoil by 20% and weapon sway by 15% while also reducing the strength of the recoil animation by 20%.",
+      "Attachable Weapons": [
+        "M24",
+        "AWM",
+        "Kar98k",
+        "SKS",
+        "VSS",
+        "Mk14 EBR",
+        "SLR"
+      ]
+    },
+    {
+      "name": "Stock",
+      "image": "stock.png",
+      "Stats": {
+        "Capacity": 10,
+        "Attributes": "-20% Recoil Pattern\n-20% Vertical Recoil\n+15% Recoil Recovery"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Stocks",
+      "Description": "Stocks attach to the back end of a weapon, increasing both stability and accuracy.",
+      "Attachable Weapons": [
+        "Micro UZI",
+        "Skorpion"
+      ]
+    },
+    {
+      "name": "Tactical Stock",
+      "image": "tacticalstock.png",
+      "Stats": {
+        "Capacity": 12,
+        "Attributes": "-20% Recoil Pattern\n+15% Recoil Recovery\n-10% Animation Kick\n-10% Sway"
+      },
+      "Category": "Attachments",
+      "Subcategory": "Stocks",
+      "Description": "The tactical stock, can only be attached to the M416, Vector, MP5K, Mk47 and M16A4. It decreases weapon recoil and first shot recovery time.",
+      "Attachable Weapons": [
+        "M416",
+        "Vector",
+        "MP5K"
+      ]
+    }
+  ],
+  "Ammunitions": [
+    {
+      "name": ".300 Magnum",
+      "image": "300magnum.png",
+      "Stats": {
+        "Capacity": 1
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "The .300 Winchester Magnum is a 7.62x67mm belted and bottlenecked magnum rifle cartridge. It was originally introduced by the Winchester Repeating Arms Company in 1963 as part of a family of Winchester Magnum cartridges, and has seen widespread popularity from hunters to soldiers due to its high velocity, low bullet drop and ability to retain energy at long ranges.",
+      "Attachable Weapons": [
+        "AWM"
+      ]
+    },
+    {
+      "name": ".45 ACP",
+      "image": "45acp.png",
+      "Stats": {
+        "Capacity": 0.4
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "The .45 ACP (Automatic Colt Pistol) caliber pistol cartridge, was designed by John Browning for use in his Colt semi-automatic .45 pistols and eventually the M1911 pistol for the United States Army in 1911.",
+      "Attachable Weapons": [
+        "P1911",
+        "Tommy Gun",
+        "Vector",
+        "Win94",
+        "R45",
+        "UMP9"
+      ]
+    },
+    {
+      "name": "12 Gauge",
+      "image": "12gauge.png",
+      "Stats": {
+        "Capacity": 1.25
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "The 12 gauge shotgun shell is ammunition for the S686, S1897, S12K and Sawed-off shotgun. Loaded with standard #00 buckshot, 12 gauge shells are fairly common, always found in boxes of 10 shells each, as standalone boxes or several boxes in a group. They may also be found together with a shotgun.",
+      "Attachable Weapons": [
+        "S1897",
+        "S686",
+        "S12K",
+        "Sawed-off"
+      ]
+    },
+    {
+      "name": "5.56mm",
+      "image": "556mm.png",
+      "Stats": {
+        "Capacity": 0.5
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "The 5.56mm cartridge is a NATO round chambered as an intermediate cartridge for the M16 rifle. It was based on the .223 Remington, with differences significant enough to adopt a new nomenclature and classification rather than a custom casing classification.",
+      "Attachable Weapons": [
+        "M16A4",
+        "M249",
+        "M416",
+        "SCAR-L",
+        "Mini 14",
+        "AUG",
+        "QBZ",
+        "QBU",
+        "G36C"
+      ]
+    },
+    {
+      "name": "7.62mm",
+      "image": "762mm.png",
+      "Stats": {
+        "Capacity": 0.7
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "The 7.62mm round is a fairly common cartridge in game, used by the AKM, Beryl M762, DP-28, Kar98K, M24, Mk47 Mutant, R1895, SLR, SKS, Groza and Mk14 EBR. It is slower but more powerful than the 5.56mm cartridge, owing to its heavier bullet and increased powder load that delivers more energy to the target.",
+      "Attachable Weapons": [
+        "AKM",
+        "Beryl M762",
+        "DP-28",
+        "Groza",
+        "Kar98k",
+        "M24",
+        "Mk14 EBR",
+        "Mk47 Mutant",
+        "R1895",
+        "SKS",
+        "SLR"
+      ]
+    },
+    {
+      "name": "9mm",
+      "image": "9mm.png",
+      "Stats": {
+        "Capacity": 0.375
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "9mm Ammunition, properly referred to as the 9x19mm Parabellum Cartridge, was designed by Georg Luger and introduced in 1902 by the German weapons manufacturer Deutsche Waffen- und Munitionsfabriken for the Luger series of pistols. Its low cost and widespread availability has lead it to become the world's most popular pistol cartridge.",
+      "Attachable Weapons": [
+        "Micro UZI",
+        "P92",
+        "UMP9",
+        "VSS",
+        "P18C",
+        "Skorpion"
+      ]
+    },
+    {
+      "name": "Bolt",
+      "image": "bolt.png",
+      "Stats": {
+        "Capacity": 2
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "Fiberglass crossbow bolts used for the Crossbow.",
+      "Attachable Weapons": [
+        "Crossbow"
+      ]
+    },
+    {
+      "name": "Flare",
+      "image": "flare.png",
+      "Stats": {
+        "Capacity": 0.5
+      },
+      "Category": "Consumables",
+      "Subcategory": "Ammunitions",
+      "Description": "A signal round used by the Flare Gun to call in an Air Drop.",
+      "Attachable Weapons": [
+        "Flare Gun"
+      ]
+    }
+  ],
+  "Boost Items": [
+    {
+      "name": "Adrenaline Syringe",
+      "image": "adrenalinesyringe.png",
+      "Stats": {
+        "Capacity": 20,
+        "Cast Time": "5.9s",
+        "Boost": 100,
+        "Usable in Vehicle": "Yes"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Boost Items",
+      "Description": "The Adrenaline Syringe is an item that can be found in air drops and as of Update 12, as very rare loot on the map. Compared to the Energy Drink and Painkillers, the Adrenaline Syringe is a much more potent booster, taking 6 seconds to administer and completely filling the boost bar. Filling the boost bar will grant you heath regeneration and faster running speed for a limited time. The boost duration will last approximately 5 minutes with total health regeneration of approximately 86% and an extra 6.2% movement speed increase."
+    },
+    {
+      "name": "Energy Drink",
+      "image": "energydrink.png",
+      "Stats": {
+        "Capacity": 4,
+        "Cast Time": "4s",
+        "Boost": 40,
+        "Usable in Vehicle": "Yes"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Boost Items",
+      "Description": "Energy Drinks instantly increase a character's boost by 40, granting health regeneration and when drinking multiple cans, increased movement speed and stronger health regeneration. Performing certain actions while casting this item — such as jumping, or unholstering a weapon — will cancel its use. The effects of a single can will last approximately 2 minutes with a total of approximately 23 health restored."
+    },
+    {
+      "name": "Painkiller",
+      "image": "painkiller.png",
+      "Stats": {
+        "Capacity": 10,
+        "Cast Time": "5.9s",
+        "Boost": 60,
+        "Usable in Vehicle": "Yes"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Boost Items",
+      "Description": "Painkillers instantly increase a character's boost by 60, granting health regeneration and increased movement speed. Performing certain actions while casting this item — such as jumping, or unholstering a weapon — will cancel its use. The effects of a single bottle will last approximately 3 minutes with a total of approximately 40 health restored."
+    }
+  ],
+  "Healing Items": [
+    {
+      "name": "Bandage",
+      "image": "bandage.png",
+      "Stats": {
+        "Capacity": 2,
+        "Cast Time": "4s",
+        "Heal": "75 HP",
+        "Usable in Vehicle": "Yes"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Healing Items",
+      "Description": "The bandage is a common item that takes 4 seconds to cast, restoring health by 10 over 4 seconds. Bandages are the most common medical item in Battlegrounds, healing much slower than a First Aid Kit and taking longer to use. Unlike the other instant healing consumables however, bandages can be used in moving vehicles allowing health recovery on the move, although rough terrain will often cancel the usage animation. Since bandages heal a smaller amount of health than First Aid Kits, they should be used when minor healing is required. However, as with the First Aid Kit, bandages cannot heal past 75 health, requiring boosters to restore the remaining 25 health."
+    },
+    {
+      "name": "First Aid Kit",
+      "image": "firstaidkit.png",
+      "Stats": {
+        "Capacity": 10,
+        "Cast Time": "5.9s",
+        "Heal": "75 HP",
+        "Usable in Vehicle": "No"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Healing Items",
+      "Description": "The First Aid Kit is a less common, but more potent healing item than bandages. It is the mid tier instant healing item behind the Med Kit. The First Aid Kit is best used for times where one where immediate healing is needed, otherwise bandages should be used first. First aid kits restore significantly more health than bandages, but will still take 6 seconds to cast, therefore this item should be used with caution while under fire. Boosters used before gunfights and coupled with bandages during battles can help reduce the reliance on first aid kits to restore health."
+    },
+    {
+      "name": "Medkit",
+      "image": "medkit.png",
+      "Stats": {
+        "Capacity": 20,
+        "Cast Time": "7.9s",
+        "Heal": "100 HP",
+        "Usable in Vehicle": "No"
+      },
+      "Category": "Consumables",
+      "Subcategory": "Healing Items",
+      "Description": "The Med Kit is a rare consumable that is found primarily in Air Drops and rarely as random loot. A Med Kit can be extremely useful as it completely restores all health instantly after an 8 second cast time. The Med Kit is the only consumable that can instantly restore all health, as boost items recover health over time. Med Kits are an effective way to regain lost health but can also be very dangerous as the 8 seconds required to use it makes one a sitting duck in a firefight."
+    }
+  ],
+  "Backpacks": [
+    {
+      "name": "Backpack(Lv1)",
+      "image": "backpack(lv1).png",
+      "Stats": {
+        "Inventory": "+150"
+      },
+      "Category": "Equipments",
+      "Subcategory": "Backpacks",
+      "Description": "The Backpack (Lv.1) is a storage piece of equipment that allows for a light amount of item storage, increasing your inventory."
+    },
+    {
+      "name": "Backpack(Lv2)",
+      "image": "backpack(lv2).png",
+      "Stats": {
+        "Inventory": "+220"
+      },
+      "Category": "Equipments",
+      "Subcategory": "Backpacks",
+      "Description": "The Backpack (Lv.2) is a storage piece of equipment that allows for a medium amount of item storage, increasing your inventory."
+    },
+    {
+      "name": "Backpack(Lv3)",
+      "image": "backpack(lv3).png",
+      "Stats": {
+        "Inventory": "+270"
+      },
+      "Category": "Equipments",
+      "Subcategory": "Backpacks",
+      "Description": "The Backpack (Level 3) is a storage piece of equipment that allows for a significant amount of item storage, increasing your inventory by + 250 capacity. Although the Level 3 backpack features the most storage capacity, it is a large and conspicuous giveaway, particularly when lying prone. Some prefer the Level 2 Backpack for this reason, as it has a much slimmer profile and is only - 50 capacity from the Level 3."
+    },
+    {
+      "name": "Utility Belt",
+      "image": "utilitybelt.png",
+      "Stats": {
+        "Inventory": "+50"
+      },
+      "Category": "Equipments",
+      "Subcategory": "Backpacks",
+      "Description": "The Utility Belt is a belt inventory item that increases inventory space."
+    }
+  ],
+  "Helmets": [
+    {
+      "name": "Helmet(Lv1)",
+      "image": "helmet(lv1).png",
+      "Stats": {
+        "Damage Reduction": "30%",
+        "Durability": 80
+      },
+      "Category": "Equipments",
+      "Subcategory": "Helmets",
+      "Description": "The Motorcycle Helmet (Level 1) helmet is usually worn in early game, when you have not been fully looted yet to at least protect yourself from getting headshotted instantly. You shouldn't be wearing this in mid to late game but it's better than not having a helmet at all."
+    },
+    {
+      "name": "Helmet(Lv2)",
+      "image": "helmet(lv2).png",
+      "Stats": {
+        "Damage Reduction": "40%",
+        "Durability": 150
+      },
+      "Category": "Equipments",
+      "Subcategory": "Helmets",
+      "Description": "Providing a 40% reduction in damage to the head, it will protect its user from everything short of a shot from a Kar98k. As such, it is essential to obtain if wearing a motorcycle helmet, or if your current helmet has very low health."
+    },
+    {
+      "name": "Helmet(Lv3)",
+      "image": "helmet(lv3).png",
+      "Stats": {
+        "Damage Reduction": "55%",
+        "Durability": 230
+      },
+      "Category": "Equipments",
+      "Subcategory": "Helmets",
+      "Description": "The Spetsnaz Helmet is based off of the Russian Rys'-T helmet. It provides excellent protection and will protect the player's head up until its last point of durability, and it will block full damage even with 1 point remaining. This helmet can only be found in Care Packages. It looks much like the black motorcycle helmet so there is a need to have a keen eye to not pass it up."
+    }
+  ],
+  "Vests": [
+    {
+      "name": "Police Vest(Lv1)",
+      "image": "policevest(lv1).png",
+      "Stats": {
+        "Inventory": "+70",
+        "Damage Reduction": "30%",
+        "Durability": 200
+      },
+      "Category": "Equipments",
+      "Subcategory": "Vests",
+      "Description": "The Vest is a protective covering that allows people to survive small arms gunfire. The vest also has significant additive storage space, allowing +50 more capacity."
+    },
+    {
+      "name": "Police Vest(Lv2)",
+      "image": "policevest(lv2).png",
+      "Stats": {
+        "Inventory": "+70",
+        "Damage Reduction": "40%",
+        "Durability": 220
+      },
+      "Category": "Equipments",
+      "Subcategory": "Vests",
+      "Description": "The Vest is a protective covering that allows people to survive small arms gunfire. The vest also has significant additive storage space, allowing +50 more capacity. It has 220 Armor points. Tests reveal that the vest blocks 40% of ballistic weapon damage to the chest, regardless of its remaining durability level."
+    },
+    {
+      "name": "Police Vest(Lv3)",
+      "image": "militaryvest(lv3).png",
+      "Stats": {
+        "Inventory": "+70",
+        "Damage Reduction": "55%",
+        "Durability": 250
+      },
+      "Category": "Equipments",
+      "Subcategory": "Vests",
+      "Description": "Blocks 55% of all damage to the chest, regardless of its remaining durability."
+    }
+  ]
+}

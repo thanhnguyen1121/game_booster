@@ -1,0 +1,3 @@
+class BaseView {
+  uiUpdate(viewModel) {}
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/admob_flutter.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/admob_flutter.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/advanced_share-0.1.0/android/advanced_share.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/advanced_share-0.1.0/android/advanced_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/android_device_info-1.0.0/android/android_device_info.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/android_device_info-1.0.0/android/android_device_info.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/android_intent-0.3.3+1/android/android_intent.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/android_intent-0.3.3+1/android/android_intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/device_apps-1.0.8/android/device_apps.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/device_apps-1.0.8/android/device_apps.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.4.0/android/facebook_audience_network.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-0.4.0/android/facebook_audience_network.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/android/firebase_core.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/android/firebase_core.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.0/android/firebase_database.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.0/android/firebase_database.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.1.3/android/flutter_share_me.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.1.3/android/flutter_share_me.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.3/android/fluttertoast.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.3/android/fluttertoast.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/get_version-0.2.0+1/android/get_version.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/get_version-0.2.0+1/android/get_version.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+6/android/package_info.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+6/android/package_info.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.4/android/path_provider.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.4/android/path_provider.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/permission_handler.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-3.3.0/android/permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratedialog/ratedialog.iml" filepath="$PROJECT_DIR$/ratedialog/ratedialog.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+4/android/shared_preferences.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+4/android/shared_preferences.iml" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.8/android/sqflite.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.8/android/sqflite.iml" />
+    </modules>
+  </component>
+</project>
